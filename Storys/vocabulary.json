@@ -1,0 +1,4292 @@
+[
+    {
+      "word": "A",
+      "ipa": "/ə/, /eɪ/",
+      "meaning": "Một (mạo từ không xác định)"
+    },
+    {
+      "word": "Abalone",
+      "ipa": "/ˌæb.əˈloʊ.ni/",
+      "meaning": "Bào ngư"
+    },
+    {
+      "word": "Above",
+      "ipa": "/əˈbʌv/",
+      "meaning": "Ở trên, bên trên"
+    },
+    {
+      "word": "Absolutely",
+      "ipa": "/ˈæb.sə.luːt.li/",
+      "meaning": "Chắc chắn rồi, hoàn toàn (đồng ý, khẳng định)"
+    },
+    {
+      "word": "Across",
+      "ipa": "/əˈkrɔːs/",
+      "meaning": "Ngang qua"
+    },
+    {
+      "word": "Again",
+      "ipa": "/əˈɡen/",
+      "meaning": "Lại, lần nữa"
+    },
+    {
+      "word": "Ago",
+      "ipa": "/əˈɡoʊ/",
+      "meaning": "Trước (cách đây)"
+    },
+    {
+      "word": "Ah",
+      "ipa": "/ɑː/",
+      "meaning": "À, Ồ (thán từ thể hiện sự nhận ra)"
+    },
+    {
+      "word": "Aile",
+      "ipa": "/aɪl/",
+      "meaning": "Cánh (của chim/côn trùng)"
+    },
+    {
+      "word": "Alas",
+      "ipa": "/əˈlæs/",
+      "meaning": "Than ôi (than từ thể hiện sự buồn bã, tiếc nuối)"
+    },
+    {
+      "word": "All",
+      "ipa": "/ɔːl/",
+      "meaning": "Tất cả, mọi người"
+    },
+    {
+      "word": "Allright",
+      "ipa": "/ɔːlˈraɪt/",
+      "meaning": "Được rồi, ổn rồi"
+    },
+    {
+      "word": "Alone",
+      "ipa": "/əˈloʊn/",
+      "meaning": "Một mình"
+    },
+    {
+      "word": "Also",
+      "ipa": "/ˈɔːl.soʊ/",
+      "meaning": "Cũng, ngoài ra"
+    },
+    {
+      "word": "Always",
+      "ipa": "/ˈɔːl.weɪz/",
+      "meaning": "Luôn luôn"
+    },
+    {
+      "word": "Am",
+      "ipa": "/æm/",
+      "meaning": "Là (dạng của 'to be' với 'I')"
+    },
+    {
+      "word": "Amazing",
+      "ipa": "/əˈmeɪ.zɪŋ/",
+      "meaning": "Tuyệt vời, kinh ngạc"
+    },
+    {
+      "word": "Amore",
+      "ipa": "/əˈmɔːr.eɪ/",
+      "meaning": "Tình yêu (tiếng Ý)"
+    },
+    {
+      "word": "An",
+      "ipa": "/æn/, /ən/",
+      "meaning": "Một (mạo từ không xác định)"
+    },
+    {
+      "word": "And",
+      "ipa": "/ænd/, /ənd/",
+      "meaning": "Và"
+    },
+    {
+      "word": "Angel",
+      "ipa": "/ˈeɪn.dʒəl/",
+      "meaning": "Thiên thần"
+    },
+    {
+      "word": "Animals",
+      "ipa": "/ˈæn.ɪ.məlz/",
+      "meaning": "Động vật, con vật"
+    },
+    {
+      "word": "Annoyed",
+      "ipa": "/əˈnɔɪd/",
+      "meaning": "Bị làm phiền, khó chịu"
+    },
+    {
+      "word": "Anymore",
+      "ipa": "/ˌen.iˈmɔːr/",
+      "meaning": "Nữa (không còn nữa)"
+    },
+    {
+      "word": "Anywhere",
+      "ipa": "/ˈen.i.wɛər/",
+      "meaning": "Bất cứ đâu"
+    },
+    {
+      "word": "Appears",
+      "ipa": "/əˈpɪərz/",
+      "meaning": "Trông có vẻ, hiện ra"
+    },
+    {
+      "word": "Are",
+      "ipa": "/ɑːr/",
+      "meaning": "Là, thì, ở (dạng của 'to be')"
+    },
+    {
+      "word": "Arrived",
+      "ipa": "/əˈraɪvd/",
+      "meaning": "Đã đến, tới nơi"
+    },
+    {
+      "word": "Arrives",
+      "ipa": "/əˈraɪvz/",
+      "meaning": "Đến, tới nơi"
+    },
+    {
+      "word": "Article",
+      "ipa": "/ˈɑːr.tɪ.kəl/",
+      "meaning": "Bài báo"
+    },
+    {
+      "word": "As",
+      "ipa": "/æz/",
+      "meaning": "Như, khi"
+    },
+    {
+      "word": "Ask",
+      "ipa": "/æsk/",
+      "meaning": "Hỏi"
+    },
+    {
+      "word": "Asked",
+      "ipa": "/æskt/",
+      "meaning": "Đã hỏi"
+    },
+    {
+      "word": "Asleep",
+      "ipa": "/əˈsliːp/",
+      "meaning": "Ngủ (đang ngủ)"
+    },
+    {
+      "word": "At",
+      "ipa": "/æt/",
+      "meaning": "Ở, tại"
+    },
+    {
+      "word": "Attic",
+      "ipa": "/ˈæt.ɪk/",
+      "meaning": "Gác xép"
+    },
+    {
+      "word": "Attractions",
+      "ipa": "/əˈtræk.ʃənz/",
+      "meaning": "Địa điểm tham quan, thắng cảnh"
+    },
+    {
+      "word": "Autumn",
+      "ipa": "/ˈɔː.təm/",
+      "meaning": "Mùa thu"
+    },
+    {
+      "word": "Away",
+      "ipa": "/əˈweɪ/",
+      "meaning": "Xa, đi mất"
+    },
+    {
+      "word": "Baby",
+      "ipa": "/ˈbeɪ.bi/",
+      "meaning": "Em bé"
+    },
+    {
+      "word": "Back",
+      "ipa": "/bæk/",
+      "meaning": "Quay lại, trở lại"
+    },
+    {
+      "word": "Baker's",
+      "ipa": "/ˈbeɪ.kərz/",
+      "meaning": "Của người làm bánh (thường ám chỉ tiệm bánh)"
+    },
+    {
+      "word": "Balcony",
+      "ipa": "/ˈbæl.kə.ni/",
+      "meaning": "Ban công"
+    },
+    {
+      "word": "Ball",
+      "ipa": "/bɔːl/",
+      "meaning": "Vũ hội"
+    },
+    {
+      "word": "Bam",
+      "ipa": "/bæm/",
+      "meaning": "Rầm (tiếng động mạnh)"
+    },
+    {
+      "word": "Bath",
+      "ipa": "/bæθ/",
+      "meaning": "Tắm"
+    },
+    {
+      "word": "Batter",
+      "ipa": "/ˈbæt.ər/",
+      "meaning": "Bột nhão làm bánh"
+    },
+    {
+      "word": "Bay",
+      "ipa": "/beɪ/",
+      "meaning": "Vịnh (nơi chim và cá voi gặp nhau)"
+    },
+    {
+      "word": "Be",
+      "ipa": "/biː/",
+      "meaning": "Là, thì, ở"
+    },
+    {
+      "word": "Bear",
+      "ipa": "/beər/",
+      "meaning": "Con gấu"
+    },
+    {
+      "word": "Beautiful",
+      "ipa": "/ˈbjuː.tɪ.fəl/",
+      "meaning": "Xinh đẹp, mỹ lệ"
+    },
+    {
+      "word": "Beauty",
+      "ipa": "/ˈbjuː.ti/",
+      "meaning": "Vẻ đẹp"
+    },
+    {
+      "word": "Became",
+      "ipa": "/bɪˈkeɪm/",
+      "meaning": "Đã trở thành"
+    },
+    {
+      "word": "Because",
+      "ipa": "/bɪˈkɔːz/",
+      "meaning": "Bởi vì"
+    },
+    {
+      "word": "Bed",
+      "ipa": "/bed/",
+      "meaning": "Giường"
+    },
+    {
+      "word": "Bedroom",
+      "ipa": "/ˈbed.ruːm/",
+      "meaning": "Phòng ngủ"
+    },
+    {
+      "word": "Bee",
+      "ipa": "/biː/",
+      "meaning": "Con ong"
+    },
+    {
+      "word": "Bee-sting",
+      "ipa": "/ˈbiː.stɪŋ/",
+      "meaning": "Vết ong đốt"
+    },
+    {
+      "word": "Beehive",
+      "ipa": "/ˈbiː.haɪv/",
+      "meaning": "Tổ ong"
+    },
+    {
+      "word": "Began",
+      "ipa": "/bɪˈɡæn/",
+      "meaning": "Đã bắt đầu"
+    },
+    {
+      "word": "Beggar",
+      "ipa": "/ˈbeɡ.ər/",
+      "meaning": "Người ăn xin"
+    },
+    {
+      "word": "Beggars",
+      "ipa": "/ˈbeɡ.ərz/",
+      "meaning": "Những người ăn xin"
+    },
+    {
+      "word": "Behind",
+      "ipa": "/bɪˈhaɪnd/",
+      "meaning": "Phía sau"
+    },
+    {
+      "word": "Belly",
+      "ipa": "/ˈbel.i/",
+      "meaning": "Bụng"
+    },
+    {
+      "word": "Below",
+      "ipa": "/bɪˈloʊ/",
+      "meaning": "Phía dưới"
+    },
+    {
+      "word": "Berries",
+      "ipa": "/ˈber.iz/",
+      "meaning": "Quả mọng (như quả mâm xôi)"
+    },
+    {
+      "word": "Between",
+      "ipa": "/bɪˈtwiːn/",
+      "meaning": "Ở giữa (hai đối tượng)"
+    },
+    {
+      "word": "Big",
+      "ipa": "/bɪɡ/",
+      "meaning": "Lớn, to"
+    },
+    {
+      "word": "Bigger",
+      "ipa": "/ˈbɪɡ.ər/",
+      "meaning": "Lớn hơn, to hơn"
+    },
+    {
+      "word": "Bird",
+      "ipa": "/bɜːrd/",
+      "meaning": "Con chim"
+    },
+    {
+      "word": "Birds",
+      "ipa": "/bɜːrdz/",
+      "meaning": "Những con chim"
+    },
+    {
+      "word": "Blind",
+      "ipa": "/blaɪnd/",
+      "meaning": "Mù lòa"
+    },
+    {
+      "word": "Blue",
+      "ipa": "/bluː/",
+      "meaning": "Màu xanh da trời"
+    },
+    {
+      "word": "Boats",
+      "ipa": "/boʊts/",
+      "meaning": "Những chiếc thuyền"
+    },
+    {
+      "word": "Body",
+      "ipa": "/ˈbɑː.di/",
+      "meaning": "Cơ thể, thân thể"
+    },
+    {
+      "word": "Bone",
+      "ipa": "/boʊn/",
+      "meaning": "Xương"
+    },
+    {
+      "word": "Both",
+      "ipa": "/boʊθ/",
+      "meaning": "Cả hai"
+    },
+    {
+      "word": "Bottom",
+      "ipa": "/ˈbɑː.təm/",
+      "meaning": "Đáy"
+    },
+    {
+      "word": "Bowl",
+      "ipa": "/boʊl/",
+      "meaning": "Cái bát, cái tô"
+    },
+    {
+      "word": "Boy",
+      "ipa": "/bɔɪ/",
+      "meaning": "Con trai, cậu bé"
+    },
+    {
+      "word": "Boyfriend",
+      "ipa": "/ˈbɔɪ.frend/",
+      "meaning": "Bạn trai"
+    },
+    {
+      "word": "Boys",
+      "ipa": "/bɔɪz/",
+      "meaning": "Những cậu bé"
+    },
+    {
+      "word": "Bread",
+      "ipa": "/bred/",
+      "meaning": "Bánh mì"
+    },
+    {
+      "word": "Break",
+      "ipa": "/breɪk/",
+      "meaning": "Làm vỡ, đập vỡ"
+    },
+    {
+      "word": "Breaks",
+      "ipa": "/breɪks/",
+      "meaning": "Vỡ (như trái tim vỡ đôi)"
+    },
+    {
+      "word": "Breath",
+      "ipa": "/breθ/",
+      "meaning": "Hơi thở"
+    },
+    {
+      "word": "Bridge",
+      "ipa": "/brɪdʒ/",
+      "meaning": "Cây cầu"
+    },
+    {
+      "word": "Bring",
+      "ipa": "/brɪŋ/",
+      "meaning": "Mang, đem"
+    },
+    {
+      "word": "Brother",
+      "ipa": "/ˈbrʌð.ər/",
+      "meaning": "Anh em trai"
+    },
+    {
+      "word": "Bruce",
+      "ipa": "/bruːs/",
+      "meaning": "Tên riêng (ngỗng Bruce)"
+    },
+    {
+      "word": "Build",
+      "ipa": "/bɪld/",
+      "meaning": "Xây dựng, làm (tổ)"
+    },
+    {
+      "word": "Building",
+      "ipa": "/ˈbɪl.dɪŋ/",
+      "meaning": "Tòa nhà"
+    },
+    {
+      "word": "Bush",
+      "ipa": "/bʊʃ/",
+      "meaning": "Bụi cây"
+    },
+    {
+      "word": "Busy",
+      "ipa": "/ˈbɪz.i/",
+      "meaning": "Bận rộn"
+    },
+    {
+      "word": "But",
+      "ipa": "/bʌt/",
+      "meaning": "Nhưng"
+    },
+    {
+      "word": "Butter",
+      "ipa": "/ˈbʌt.ər/",
+      "meaning": "Bơ"
+    },
+    {
+      "word": "Buy",
+      "ipa": "/baɪ/",
+      "meaning": "Mua"
+    },
+    {
+      "word": "Buzz",
+      "ipa": "/bʌz/",
+      "meaning": "Kêu vo vo (âm thanh của ong)"
+    },
+    {
+      "word": "By",
+      "ipa": "/baɪ/",
+      "meaning": "Bởi, bên cạnh"
+    },
+    {
+      "word": "Cafe",
+      "ipa": "/ˈkæf.eɪ/",
+      "meaning": "Quán cà phê"
+    },
+    {
+      "word": "Cake",
+      "ipa": "/keɪk/",
+      "meaning": "Bánh ngọt"
+    },
+    {
+      "word": "Call",
+      "ipa": "/kɔːl/",
+      "meaning": "Gọi"
+    },
+    {
+      "word": "Called",
+      "ipa": "/kɔːld/",
+      "meaning": "Đã gọi, được gọi"
+    },
+    {
+      "word": "Calloused",
+      "ipa": "/ˈkæl.əst/",
+      "meaning": "Chai sạn (da)"
+    },
+    {
+      "word": "Camels",
+      "ipa": "/ˈkæm.əlz/",
+      "meaning": "Lạc đà"
+    },
+    {
+      "word": "Can",
+      "ipa": "/kæn/, /kən/",
+      "meaning": "Có thể"
+    },
+    {
+      "word": "Can't",
+      "ipa": "/kænt/",
+      "meaning": "Không thể"
+    },
+    {
+      "word": "Cannot",
+      "ipa": "/ˈkæn.ɒt/",
+      "meaning": "Không thể"
+    },
+    {
+      "word": "Cargo",
+      "ipa": "/ˈkɑːr.ɡoʊ/",
+      "meaning": "Hàng hóa (trên tàu)"
+    },
+    {
+      "word": "Cat",
+      "ipa": "/kæt/",
+      "meaning": "Con mèo"
+    },
+    {
+      "word": "Cathedral",
+      "ipa": "/kəˈθiː.drəl/",
+      "meaning": "Nhà thờ lớn"
+    },
+    {
+      "word": "Cave",
+      "ipa": "/keɪv/",
+      "meaning": "Hang động"
+    },
+    {
+      "word": "Center",
+      "ipa": "/ˈsen.tər/",
+      "meaning": "Trung tâm"
+    },
+    {
+      "word": "Cheeks",
+      "ipa": "/tʃiːks/",
+      "meaning": "Má"
+    },
+    {
+      "word": "Chicken",
+      "ipa": "/ˈtʃɪk.ɪn/",
+      "meaning": "Con gà"
+    },
+    {
+      "word": "Children",
+      "ipa": "/ˈtʃɪl.drən/",
+      "meaning": "Những đứa trẻ"
+    },
+    {
+      "word": "Chimney",
+      "ipa": "/ˈtʃɪm.ni/",
+      "meaning": "Ống khói"
+    },
+    {
+      "word": "Chip",
+      "ipa": "/tʃɪp/",
+      "meaning": "Miếng nhỏ"
+    },
+    {
+      "word": "Chirp",
+      "ipa": "/tʃɜːrp/",
+      "meaning": "Kêu chíp chíp (tiếng chim sẻ)"
+    },
+    {
+      "word": "Chosen",
+      "ipa": "/ˈtʃoʊ.zən/",
+      "meaning": "Đã chọn"
+    },
+    {
+      "word": "Chuck",
+      "ipa": "/tʃʌk/",
+      "meaning": "Tên riêng (vịt Chuck)"
+    },
+    {
+      "word": "City",
+      "ipa": "/ˈsɪt.i/",
+      "meaning": "Thành phố"
+    },
+    {
+      "word": "City-councilors",
+      "ipa": "/ˈsɪt.i ˈkaʊn.səl.ərz/",
+      "meaning": "Các ủy viên hội đồng thành phố"
+    },
+    {
+      "word": "Clean",
+      "ipa": "/kliːn/",
+      "meaning": "Sạch sẽ"
+    },
+    {
+      "word": "Cliffs",
+      "ipa": "/klɪfs/",
+      "meaning": "Vách đá"
+    },
+    {
+      "word": "Clock",
+      "ipa": "/klɑːk/",
+      "meaning": "Đồng hồ"
+    },
+    {
+      "word": "Closest",
+      "ipa": "/ˈkloʊ.sɪst/",
+      "meaning": "Gần gũi nhất"
+    },
+    {
+      "word": "Clouds",
+      "ipa": "/klaʊdz/",
+      "meaning": "Mây"
+    },
+    {
+      "word": "Clothes",
+      "ipa": "/kloʊðz/",
+      "meaning": "Quần áo"
+    },
+    {
+      "word": "Coated",
+      "ipa": "/ˈkoʊ.tɪd/",
+      "meaning": "Được phủ"
+    },
+    {
+      "word": "Coffee",
+      "ipa": "/ˈkɑː.fi/",
+      "meaning": "Cà phê"
+    },
+    {
+      "word": "Cold",
+      "ipa": "/koʊld/",
+      "meaning": "Lạnh"
+    },
+    {
+      "word": "Come",
+      "ipa": "/kʌm/",
+      "meaning": "Đến, vào"
+    },
+    {
+      "word": "Comes",
+      "ipa": "/kʌmz/",
+      "meaning": "Đến, tới"
+    },
+    {
+      "word": "Comfortably",
+      "ipa": "/ˈkʌm.fər.tə.bli/",
+      "meaning": "Thoải mái"
+    },
+    {
+      "word": "Completely",
+      "ipa": "/kəmˈpliːt.li/",
+      "meaning": "Hoàn toàn"
+    },
+    {
+      "word": "Contemplates",
+      "ipa": "/ˈkɑːn.təm.pleɪts/",
+      "meaning": "Chiêm ngưỡng, suy ngẫm"
+    },
+    {
+      "word": "Continues",
+      "ipa": "/kənˈtɪn.juːz/",
+      "meaning": "Tiếp tục"
+    },
+    {
+      "word": "Cozy",
+      "ipa": "/ˈkoʊ.zi/",
+      "meaning": "Ấm cúng"
+    },
+    {
+      "word": "Crack",
+      "ipa": "/kræk/",
+      "meaning": "Rắc (tiếng nứt)"
+    },
+    {
+      "word": "Cramped",
+      "ipa": "/kræmpt/",
+      "meaning": "Chật chội"
+    },
+    {
+      "word": "Cream",
+      "ipa": "/kriːm/",
+      "meaning": "Kem (kem sữa)"
+    },
+    {
+      "word": "Crocodiles",
+      "ipa": "/ˈkrɑː.kə.daɪlz/",
+      "meaning": "Cá sấu"
+    },
+    {
+      "word": "Crumbs",
+      "ipa": "/krʌmz/",
+      "meaning": "Mẩu bánh vụn"
+    },
+    {
+      "word": "Cry",
+      "ipa": "/kraɪ/",
+      "meaning": "Khóc"
+    },
+    {
+      "word": "Crying",
+      "ipa": "/ˈkraɪ.ɪŋ/",
+      "meaning": "Đang khóc"
+    },
+    {
+      "word": "Cupboard",
+      "ipa": "/ˈkʌb.ərd/",
+      "meaning": "Tủ đựng thức ăn, tủ chén"
+    },
+    {
+      "word": "Dance",
+      "ipa": "/dæns/",
+      "meaning": "Nhảy múa"
+    },
+    {
+      "word": "Dancing",
+      "ipa": "/ˈdæn.sɪŋ/",
+      "meaning": "Đang nhảy múa"
+    },
+    {
+      "word": "Danger",
+      "ipa": "/ˈdeɪn.dʒər/",
+      "meaning": "Nguy hiểm"
+    },
+    {
+      "word": "Dark",
+      "ipa": "/dɑːrk/",
+      "meaning": "Tối, bóng tối"
+    },
+    {
+      "word": "Death",
+      "ipa": "/deθ/",
+      "meaning": "Cái chết"
+    },
+    {
+      "word": "Dear",
+      "ipa": "/dɪr/",
+      "meaning": "Thân mến, quý mến"
+    },
+    {
+      "word": "Declares",
+      "ipa": "/dɪˈkleərz/",
+      "meaning": "Tuyên bố"
+    },
+    {
+      "word": "Deep",
+      "ipa": "/diːp/",
+      "meaning": "Sâu"
+    },
+    {
+      "word": "Deeper",
+      "ipa": "/ˈdiː.pər/",
+      "meaning": "Sâu hơn"
+    },
+    {
+      "word": "Delicious",
+      "ipa": "/dɪˈlɪʃ.əs/",
+      "meaning": "Ngon, thơm (mùi)"
+    },
+    {
+      "word": "Deny",
+      "ipa": "/dɪˈnaɪ/",
+      "meaning": "Từ chối, phủ nhận"
+    },
+    {
+      "word": "Desk",
+      "ipa": "/desk/",
+      "meaning": "Bàn làm việc"
+    },
+    {
+      "word": "Desert",
+      "ipa": "/ˈdez.ərt/",
+      "meaning": "Sa mạc"
+    },
+    {
+      "word": "Diamond",
+      "ipa": "/ˈdaɪə.mənd/",
+      "meaning": "Kim cương"
+    },
+    {
+      "word": "Did",
+      "ipa": "/dɪd/",
+      "meaning": "Đã làm"
+    },
+    {
+      "word": "Didn't",
+      "ipa": "/ˈdɪd.ənt/",
+      "meaning": "Đã không"
+    },
+    {
+      "word": "Die",
+      "ipa": "/daɪ/",
+      "meaning": "Chết"
+    },
+    {
+      "word": "Ding",
+      "ipa": "/dɪŋ/",
+      "meaning": "Kính coong (tiếng chuông nhỏ)"
+    },
+    {
+      "word": "Disappeared",
+      "ipa": "/ˌdɪs.əˈpɪrd/",
+      "meaning": "Đã biến mất"
+    },
+    {
+      "word": "Distinguished",
+      "ipa": "/dɪˈstɪŋ.ɡwɪʃt/",
+      "meaning": "Đặc biệt, đáng kính"
+    },
+    {
+      "word": "Dive",
+      "ipa": "/daɪv/",
+      "meaning": "Lặn"
+    },
+    {
+      "word": "Dived",
+      "ipa": "/daɪvd/",
+      "meaning": "Đã lặn"
+    },
+    {
+      "word": "Diving",
+      "ipa": "/ˈdaɪ.vɪŋ/",
+      "meaning": "Đang lặn"
+    },
+    {
+      "word": "Do",
+      "ipa": "/duː/",
+      "meaning": "Làm"
+    },
+    {
+      "word": "Does",
+      "ipa": "/dʌz/",
+      "meaning": "Làm"
+    },
+    {
+      "word": "Doesn't",
+      "ipa": "/ˈdʌz.ənt/",
+      "meaning": "Không"
+    },
+    {
+      "word": "Dog",
+      "ipa": "/dɔːɡ/",
+      "meaning": "Con chó"
+    },
+    {
+      "word": "Doing",
+      "ipa": "/ˈduː.ɪŋ/",
+      "meaning": "Đang làm"
+    },
+    {
+      "word": "Donation",
+      "ipa": "/doʊˈneɪ.ʃən/",
+      "meaning": "Khoản đóng góp, tặng phẩm"
+    },
+    {
+      "word": "Don't",
+      "ipa": "/doʊnt/",
+      "meaning": "Đừng, không"
+    },
+    {
+      "word": "Door",
+      "ipa": "/dɔːr/",
+      "meaning": "Cửa ra vào"
+    },
+    {
+      "word": "Doorsteps",
+      "ipa": "/ˈdɔːr.steps/",
+      "meaning": "Bậc cửa"
+    },
+    {
+      "word": "Down",
+      "ipa": "/daʊn/",
+      "meaning": "Xuống"
+    },
+    {
+      "word": "Drafty",
+      "ipa": "/ˈdræf.ti/",
+      "meaning": "Lộng gió, có gió lùa"
+    },
+    {
+      "word": "Dress",
+      "ipa": "/dres/",
+      "meaning": "Váy đầm"
+    },
+    {
+      "word": "Drink",
+      "ipa": "/drɪŋk/",
+      "meaning": "Uống, đồ uống"
+    },
+    {
+      "word": "Drop",
+      "ipa": "/drɑːp/",
+      "meaning": "Giọt (nước), làm rơi"
+    },
+    {
+      "word": "Dropped",
+      "ipa": "/drɑːpt/",
+      "meaning": "Đã làm rơi"
+    },
+    {
+      "word": "Drops",
+      "ipa": "/drɑːps/",
+      "meaning": "Những giọt"
+    },
+    {
+      "word": "Drools",
+      "ipa": "/druːlz/",
+      "meaning": "Chảy nước dãi"
+    },
+    {
+      "word": "Duck",
+      "ipa": "/dʌk/",
+      "meaning": "Con vịt"
+    },
+    {
+      "word": "Due",
+      "ipa": "/duː/",
+      "meaning": "Đến hạn"
+    },
+    {
+      "word": "Dull",
+      "ipa": "/dʌl/",
+      "meaning": "Xỉn màu, ảm đạm"
+    },
+    {
+      "word": "During",
+      "ipa": "/ˈdʊr.ɪŋ/",
+      "meaning": "Trong suốt (khoảng thời gian)"
+    },
+    {
+      "word": "Ear",
+      "ipa": "/ɪər/",
+      "meaning": "Tai"
+    },
+    {
+      "word": "Earlier",
+      "ipa": "/ˈɜːr.li.ər/",
+      "meaning": "Sớm hơn"
+    },
+    {
+      "word": "Easy",
+      "ipa": "/ˈiː.zi/",
+      "meaning": "Dễ dàng"
+    },
+    {
+      "word": "Eat",
+      "ipa": "/iːt/",
+      "meaning": "Ăn"
+    },
+    {
+      "word": "Eating",
+      "ipa": "/ˈiː.tɪŋ/",
+      "meaning": "Đang ăn"
+    },
+    {
+      "word": "Eaves",
+      "ipa": "/iːvz/",
+      "meaning": "Mái hiên, rìa mái nhà"
+    },
+    {
+      "word": "Egypt",
+      "ipa": "/ˈiː.dʒɪpt/",
+      "meaning": "Ai Cập"
+    },
+    {
+      "word": "Eight",
+      "ipa": "/eɪt/",
+      "meaning": "Tám"
+    },
+    {
+      "word": "Elbow",
+      "ipa": "/ˈel.boʊ/",
+      "meaning": "Khuỷu tay"
+    },
+    {
+      "word": "Egg",
+      "ipa": "/eɡ/",
+      "meaning": "Trứng"
+    },
+    {
+      "word": "Either",
+      "ipa": "/ˈaɪ.ðər/",
+      "meaning": "Cũng không"
+    },
+    {
+      "word": "Emeralds",
+      "ipa": "/ˈem.ə.rəldz/",
+      "meaning": "Ngọc lục bảo"
+    },
+    {
+      "word": "Email",
+      "ipa": "/ˈiː.meɪl/",
+      "meaning": "Gửi thư điện tử"
+    },
+    {
+      "word": "Empty",
+      "ipa": "/ˈemp.ti/",
+      "meaning": "Trống rỗng"
+    },
+    {
+      "word": "End",
+      "ipa": "/end/",
+      "meaning": "Kết thúc"
+    },
+    {
+      "word": "Engagement",
+      "ipa": "/ɪnˈɡeɪdʒ.mənt/",
+      "meaning": "Lời hứa, cam kết"
+    },
+    {
+      "word": "Enjoying",
+      "ipa": "/ɪnˈdʒɔɪ.ɪŋ/",
+      "meaning": "Đang tận hưởng, thích thú"
+    },
+    {
+      "word": "Enjoys",
+      "ipa": "/ɪnˈdʒɔɪz/",
+      "meaning": "Tận hưởng, thích thú"
+    },
+    {
+      "word": "Enough",
+      "ipa": "/ɪˈnʌf/",
+      "meaning": "Đủ"
+    },
+    {
+      "word": "Enter",
+      "ipa": "/ˈen.tər/",
+      "meaning": "Vào, bước vào"
+    },
+    {
+      "word": "Entire",
+      "ipa": "/ɪnˈtaɪər/",
+      "meaning": "Toàn bộ"
+    },
+    {
+      "word": "Even",
+      "ipa": "/ˈiː.vən/",
+      "meaning": "Ngay cả, thậm chí"
+    },
+    {
+      "word": "Every",
+      "ipa": "/ˈev.ri/",
+      "meaning": "Mọi, mỗi"
+    },
+    {
+      "word": "Everybody",
+      "ipa": "/ˈev.ri.bɑː.di/",
+      "meaning": "Mọi người"
+    },
+    {
+      "word": "Everyone",
+      "ipa": "/ˈev.ri.wʌn/",
+      "meaning": "Mọi người"
+    },
+    {
+      "word": "Everything",
+      "ipa": "/ˈev.ri.θɪŋ/",
+      "meaning": "Mọi thứ"
+    },
+    {
+      "word": "Exclaims",
+      "ipa": "/ɪkˈskleɪmz/",
+      "meaning": "Kêu lên, thốt lên"
+    },
+    {
+      "word": "Eye",
+      "ipa": "/aɪ/",
+      "meaning": "Mắt"
+    },
+    {
+      "word": "Eyes",
+      "ipa": "/aɪz/",
+      "meaning": "Đôi mắt"
+    },
+    {
+      "word": "Face",
+      "ipa": "/feɪs/",
+      "meaning": "Khuôn mặt"
+    },
+    {
+      "word": "Fades",
+      "ipa": "/feɪdz/",
+      "meaning": "Phai mờ"
+    },
+    {
+      "word": "Fairytale",
+      "ipa": "/ˈfeə.ri.teɪl/",
+      "meaning": "Truyện cổ tích"
+    },
+    {
+      "word": "Fall",
+      "ipa": "/fɑːl/",
+      "meaning": "Rơi"
+    },
+    {
+      "word": "Fallen",
+      "ipa": "/ˈfɑː.lən/",
+      "meaning": "Đã rơi, đã yêu"
+    },
+    {
+      "word": "Falling",
+      "ipa": "/ˈfɑː.lɪŋ/",
+      "meaning": "Đang rơi"
+    },
+    {
+      "word": "Family",
+      "ipa": "/ˈfæm.əl.i/",
+      "meaning": "Gia đình"
+    },
+    {
+      "word": "Fanning",
+      "ipa": "/ˈfæn.ɪŋ/",
+      "meaning": "Quạt (bằng cánh)"
+    },
+    {
+      "word": "Far",
+      "ipa": "/fɑːr/",
+      "meaning": "Xa"
+    },
+    {
+      "word": "Farm",
+      "ipa": "/fɑːrm/",
+      "meaning": "Nông trại"
+    },
+    {
+      "word": "Fast",
+      "ipa": "/fæst/",
+      "meaning": "Nhanh"
+    },
+    {
+      "word": "Fat",
+      "ipa": "/fæt/",
+      "meaning": "Béo, mập"
+    },
+    {
+      "word": "Father",
+      "ipa": "/ˈfɑː.ðər/",
+      "meaning": "Cha"
+    },
+    {
+      "word": "Favorite",
+      "ipa": "/ˈfeɪ.vər.ɪt/",
+      "meaning": "Yêu thích"
+    },
+    {
+      "word": "Feathers",
+      "ipa": "/ˈfeð.ərz/",
+      "meaning": "Lông vũ"
+    },
+    {
+      "word": "Feel",
+      "ipa": "/fiːl/",
+      "meaning": "Cảm thấy"
+    },
+    {
+      "word": "Feeling",
+      "ipa": "/ˈfiː.lɪŋ/",
+      "meaning": "Cảm giác"
+    },
+    {
+      "word": "Feet",
+      "ipa": "/fiːt/",
+      "meaning": "Bàn chân (số nhiều của foot)"
+    },
+    {
+      "word": "Fell",
+      "ipa": "/fel/",
+      "meaning": "Đã rơi, đã yêu"
+    },
+    {
+      "word": "Felt",
+      "ipa": "/felt/",
+      "meaning": "Đã cảm thấy"
+    },
+    {
+      "word": "Fetch",
+      "ipa": "/fetʃ/",
+      "meaning": "Đi lấy, mang về"
+    },
+    {
+      "word": "Fever",
+      "ipa": "/ˈfiː.vər/",
+      "meaning": "Cơn sốt"
+    },
+    {
+      "word": "Feverishly",
+      "ipa": "/ˈfiː.vər.ɪʃ.li/",
+      "meaning": "Vật vã (do sốt)"
+    },
+    {
+      "word": "Field",
+      "ipa": "/fiːld/",
+      "meaning": "Cánh đồng"
+    },
+    {
+      "word": "Filled",
+      "ipa": "/fɪld/",
+      "meaning": "Đầy"
+    },
+    {
+      "word": "Find",
+      "ipa": "/faɪnd/",
+      "meaning": "Tìm thấy"
+    },
+    {
+      "word": "Fine",
+      "ipa": "/faɪn/",
+      "meaning": "Tinh xảo, tốt"
+    },
+    {
+      "word": "Finish",
+      "ipa": "/ˈfɪn.ɪʃ/",
+      "meaning": "Hoàn thành"
+    },
+    {
+      "word": "Fins",
+      "ipa": "/fɪnz/",
+      "meaning": "Vây cá"
+    },
+    {
+      "word": "Firewood",
+      "ipa": "/ˈfaɪər.wʊd/",
+      "meaning": "Củi đốt"
+    },
+    {
+      "word": "First",
+      "ipa": "/fɜːrst/",
+      "meaning": "Đầu tiên"
+    },
+    {
+      "word": "Fish",
+      "ipa": "/fɪʃ/",
+      "meaning": "Cá"
+    },
+    {
+      "word": "Flap",
+      "ipa": "/flæp/",
+      "meaning": "Vỗ (cánh)"
+    },
+    {
+      "word": "Flapped",
+      "ipa": "/flæpt/",
+      "meaning": "Đã vỗ (cánh)"
+    },
+    {
+      "word": "Flapping",
+      "ipa": "/ˈflæp.ɪŋ/",
+      "meaning": "Đang vỗ (cánh)"
+    },
+    {
+      "word": "Flew",
+      "ipa": "/fluː/",
+      "meaning": "Đã bay"
+    },
+    {
+      "word": "Flick",
+      "ipa": "/flɪk/",
+      "meaning": "Phẩy, lắc nhẹ"
+    },
+    {
+      "word": "Flicks",
+      "ipa": "/flɪks/",
+      "meaning": "Lắc nhẹ (đuôi)"
+    },
+    {
+      "word": "Flour",
+      "ipa": "/flaʊər/",
+      "meaning": "Bột mì"
+    },
+    {
+      "word": "Flowers",
+      "ipa": "/ˈflaʊ.ərz/",
+      "meaning": "Hoa"
+    },
+    {
+      "word": "Fly",
+      "ipa": "/flaɪ/",
+      "meaning": "Bay"
+    },
+    {
+      "word": "Flying",
+      "ipa": "/ˈflaɪ.ɪŋ/",
+      "meaning": "Đang bay"
+    },
+    {
+      "word": "Follow",
+      "ipa": "/ˈfɑː.loʊ/",
+      "meaning": "Theo dõi, đi theo"
+    },
+    {
+      "word": "Food",
+      "ipa": "/fuːd/",
+      "meaning": "Thức ăn"
+    },
+    {
+      "word": "For",
+      "ipa": "/fɔːr/",
+      "meaning": "Cho, vì"
+    },
+    {
+      "word": "Forget",
+      "ipa": "/fərˈɡet/",
+      "meaning": "Quên"
+    },
+    {
+      "word": "Forest",
+      "ipa": "/ˈfɔːr.ɪst/",
+      "meaning": "Rừng"
+    },
+    {
+      "word": "Forever",
+      "ipa": "/fərˈev.ər/",
+      "meaning": "Mãi mãi"
+    },
+    {
+      "word": "Forgot",
+      "ipa": "/fərˈɡɑːt/",
+      "meaning": "Đã quên"
+    },
+    {
+      "word": "Forlorn",
+      "ipa": "/fɔːrˈlɔːrn/",
+      "meaning": "Cô đơn, tuyệt vọng"
+    },
+    {
+      "word": "Foundation",
+      "ipa": "/faʊnˈdeɪ.ʃən/",
+      "meaning": "Nền tảng"
+    },
+    {
+      "word": "Foundry",
+      "ipa": "/ˈfaʊn.dri/",
+      "meaning": "Xưởng đúc kim loại"
+    },
+    {
+      "word": "Fox",
+      "ipa": "/fɑːks/",
+      "meaning": "Con cáo"
+    },
+    {
+      "word": "Fred",
+      "ipa": "/fred/",
+      "meaning": "Tên riêng (cáo Fred)"
+    },
+    {
+      "word": "Friends",
+      "ipa": "/frendz/",
+      "meaning": "Bạn bè"
+    },
+    {
+      "word": "From",
+      "ipa": "/frɑːm/",
+      "meaning": "Từ"
+    },
+    {
+      "word": "Frost",
+      "ipa": "/frɑːst/",
+      "meaning": "Băng giá"
+    },
+    {
+      "word": "Fun",
+      "ipa": "/fʌn/",
+      "meaning": "Vui vẻ"
+    },
+    {
+      "word": "Furnace",
+      "ipa": "/ˈfɜːr.nɪs/",
+      "meaning": "Lò luyện kim"
+    },
+    {
+      "word": "Further",
+      "ipa": "/ˈfɜːr.ðər/",
+      "meaning": "Xa hơn"
+    },
+    {
+      "word": "Future",
+      "ipa": "/ˈfjuː.tʃər/",
+      "meaning": "Tương lai"
+    },
+    {
+      "word": "Garden",
+      "ipa": "/ˈɡɑːr.dən/",
+      "meaning": "Khu vườn"
+    },
+    {
+      "word": "Gardens",
+      "ipa": "/ˈɡɑːr.dənz/",
+      "meaning": "Các khu vườn"
+    },
+    {
+      "word": "Garghghgh",
+      "ipa": "/ɡɑːrɡhɡhɡh/",
+      "meaning": "Gào thét (tiếng gấu)"
+    },
+    {
+      "word": "Gasping",
+      "ipa": "/ˈɡæspɪŋ/",
+      "meaning": "Thở hổn hển"
+    },
+    {
+      "word": "Gently",
+      "ipa": "/ˈdʒent.li/",
+      "meaning": "Nhẹ nhàng"
+    },
+    {
+      "word": "Get",
+      "ipa": "/ɡet/",
+      "meaning": "Lấy, trở nên"
+    },
+    {
+      "word": "Getting",
+      "ipa": "/ˈɡet.ɪŋ/",
+      "meaning": "Đang trở nên, đang lấy"
+    },
+    {
+      "word": "Girl",
+      "ipa": "/ɡɜːrl/",
+      "meaning": "Cô gái"
+    },
+    {
+      "word": "Give",
+      "ipa": "/ɡɪv/",
+      "meaning": "Cho"
+    },
+    {
+      "word": "Given",
+      "ipa": "/ˈɡɪv.ən/",
+      "meaning": "Đã cho"
+    },
+    {
+      "word": "Glad",
+      "ipa": "/ɡlæd/",
+      "meaning": "Vui mừng"
+    },
+    {
+      "word": "Go",
+      "ipa": "/ɡoʊ/",
+      "meaning": "Đi"
+    },
+    {
+      "word": "Going",
+      "ipa": "/ˈɡoʊ.ɪŋ/",
+      "meaning": "Đang đi"
+    },
+    {
+      "word": "Gold",
+      "ipa": "/ɡoʊld/",
+      "meaning": "Vàng (kim loại)"
+    },
+    {
+      "word": "Golden",
+      "ipa": "/ˈɡoʊl.dən/",
+      "meaning": "Bằng vàng, màu vàng"
+    },
+    {
+      "word": "Good",
+      "ipa": "/ɡʊd/",
+      "meaning": "Tốt, tốt lành"
+    },
+    {
+      "word": "Good-bye",
+      "ipa": "/ˌɡʊdˈbaɪ/",
+      "meaning": "Tạm biệt"
+    },
+    {
+      "word": "Goodness",
+      "ipa": "/ˈɡʊd.nəs/",
+      "meaning": "Trời ơi (thán từ), lòng tốt"
+    },
+    {
+      "word": "Goose",
+      "ipa": "/ɡuːs/",
+      "meaning": "Con ngỗng"
+    },
+    {
+      "word": "Go-on",
+      "ipa": "/ˌɡoʊˈɑːn/",
+      "meaning": "Tiếp tục, đi đi"
+    },
+    {
+      "word": "Gracefully",
+      "ipa": "/ˈɡreɪs.fə.li/",
+      "meaning": "Duyên dáng, thanh thoát"
+    },
+    {
+      "word": "Gracious",
+      "ipa": "/ˈɡreɪ.ʃəs/",
+      "meaning": "Dễ thương, trời ơi (thán từ)"
+    },
+    {
+      "word": "Grass",
+      "ipa": "/ɡræs/",
+      "meaning": "Cỏ"
+    },
+    {
+      "word": "Gray",
+      "ipa": "/ɡreɪ/",
+      "meaning": "Màu xám"
+    },
+    {
+      "word": "Great",
+      "ipa": "/ɡreɪt/",
+      "meaning": "Tuyệt vời, to lớn"
+    },
+    {
+      "word": "Green",
+      "ipa": "/ɡriːn/",
+      "meaning": "Màu xanh lá"
+    },
+    {
+      "word": "Ground",
+      "ipa": "/ɡraʊnd/",
+      "meaning": "Mặt đất"
+    },
+    {
+      "word": "Grumpy",
+      "ipa": "/ˈɡrʌm.pi/",
+      "meaning": "Cáu kỉnh, gắt gỏng"
+    },
+    {
+      "word": "Grows",
+      "ipa": "/ɡroʊz/",
+      "meaning": "Mọc, trở nên (da dẻ hồng hào)"
+    },
+    {
+      "word": "Growls",
+      "ipa": "/ɡraʊlz/",
+      "meaning": "Gầm gừ"
+    },
+    {
+      "word": "Gwen",
+      "ipa": "/ɡwen/",
+      "meaning": "Tên riêng (gà Gwen)"
+    },
+    {
+      "word": "Had",
+      "ipa": "/hæd/",
+      "meaning": "Đã có"
+    },
+    {
+      "word": "Hair",
+      "ipa": "/heər/",
+      "meaning": "Tóc"
+    },
+    {
+      "word": "Hall",
+      "ipa": "/hɑːl/",
+      "meaning": "Sảnh lớn"
+    },
+    {
+      "word": "Hand",
+      "ipa": "/hænd/",
+      "meaning": "Bàn tay"
+    },
+    {
+      "word": "Hands",
+      "ipa": "/hændz/",
+      "meaning": "Đôi tay"
+    },
+    {
+      "word": "Handsome",
+      "ipa": "/ˈhæn.səm/",
+      "meaning": "Đẹp trai, khôi ngô"
+    },
+    {
+      "word": "Hang",
+      "ipa": "/hæŋ/",
+      "meaning": "Treo"
+    },
+    {
+      "word": "Happy",
+      "ipa": "/ˈhæp.i/",
+      "meaning": "Hạnh phúc, vui vẻ"
+    },
+    {
+      "word": "Harbor",
+      "ipa": "/ˈhɑːr.bər/",
+      "meaning": "Bến cảng"
+    },
+    {
+      "word": "Hard",
+      "ipa": "/hɑːrd/",
+      "meaning": "Chăm chỉ"
+    },
+    {
+      "word": "Hat",
+      "ipa": "/hæt/",
+      "meaning": "Mũ"
+    },
+    {
+      "word": "Have",
+      "ipa": "/hæv/",
+      "meaning": "Có"
+    },
+    {
+      "word": "Having",
+      "ipa": "/ˈhæv.ɪŋ/",
+      "meaning": "Đang có"
+    },
+    {
+      "word": "He",
+      "ipa": "/hiː/",
+      "meaning": "Anh ấy, cậu ấy"
+    },
+    {
+      "word": "Head",
+      "ipa": "/hed/",
+      "meaning": "Đầu"
+    },
+    {
+      "word": "Headline",
+      "ipa": "/ˈhed.laɪn/",
+      "meaning": "Tiêu đề báo"
+    },
+    {
+      "word": "Heart",
+      "ipa": "/hɑːrt/",
+      "meaning": "Trái tim"
+    },
+    {
+      "word": "Hearts",
+      "ipa": "/hɑːrts/",
+      "meaning": "Những trái tim"
+    },
+    {
+      "word": "Heave-ho",
+      "ipa": "/ˌhiːvˈhoʊ/",
+      "meaning": "Hô 'kéo lên' (tiếng của thủy thủ)"
+    },
+    {
+      "word": "Hen",
+      "ipa": "/hen/",
+      "meaning": "Gà mái"
+    },
+    {
+      "word": "Here",
+      "ipa": "/hɪər/",
+      "meaning": "Ở đây"
+    },
+    {
+      "word": "Hide",
+      "ipa": "/haɪd/",
+      "meaning": "Trốn, ẩn nấp"
+    },
+    {
+      "word": "High",
+      "ipa": "/haɪ/",
+      "meaning": "Cao"
+    },
+    {
+      "word": "Hill",
+      "ipa": "/hɪl/",
+      "meaning": "Đồi"
+    },
+    {
+      "word": "Him",
+      "ipa": "/hɪm/",
+      "meaning": "Anh ấy, cậu ấy (tân ngữ)"
+    },
+    {
+      "word": "Himself",
+      "ipa": "/hɪmˈself/",
+      "meaning": "Chính anh ấy"
+    },
+    {
+      "word": "Hippos",
+      "ipa": "/ˈhɪp.oʊz/",
+      "meaning": "Hà mã"
+    },
+    {
+      "word": "His",
+      "ipa": "/hɪz/",
+      "meaning": "Của anh ấy"
+    },
+    {
+      "word": "Hit",
+      "ipa": "/hɪt/",
+      "meaning": "Đánh"
+    },
+    {
+      "word": "Holds",
+      "ipa": "/hoʊldz/",
+      "meaning": "Khoang tàu"
+    },
+    {
+      "word": "Hole",
+      "ipa": "/hoʊl/",
+      "meaning": "Lỗ"
+    },
+    {
+      "word": "Holy",
+      "ipa": "/ˈhoʊ.li/",
+      "meaning": "Linh thiêng (trong 'holy moly' - lạy chúa tôi)"
+    },
+    {
+      "word": "Home",
+      "ipa": "/hoʊm/",
+      "meaning": "Nhà"
+    },
+    {
+      "word": "Honey",
+      "ipa": "/ˈhʌn.i/",
+      "meaning": "Mật ong"
+    },
+    {
+      "word": "Hopes",
+      "ipa": "/hoʊps/",
+      "meaning": "Hy vọng"
+    },
+    {
+      "word": "Hopped",
+      "ipa": "/hɑːpt/",
+      "meaning": "Đã nhảy lò cò"
+    },
+    {
+      "word": "Horse",
+      "ipa": "/hɔːrs/",
+      "meaning": "Con ngựa"
+    },
+    {
+      "word": "Hot",
+      "ipa": "/hɑːt/",
+      "meaning": "Nóng"
+    },
+    {
+      "word": "Hour",
+      "ipa": "/ˈaʊər/",
+      "meaning": "Giờ"
+    },
+    {
+      "word": "House",
+      "ipa": "/haʊs/",
+      "meaning": "Ngôi nhà"
+    },
+    {
+      "word": "Huddled",
+      "ipa": "/ˈhʌd.əld/",
+      "meaning": "Co ro, xúm xít"
+    },
+    {
+      "word": "Huge",
+      "ipa": "/hjuːdʒ/",
+      "meaning": "Khổng lồ"
+    },
+    {
+      "word": "Huh",
+      "ipa": "/hʌ/",
+      "meaning": "Hả (thán từ ngạc nhiên)"
+    },
+    {
+      "word": "Human",
+      "ipa": "/ˈhjuː.mən/",
+      "meaning": "Con người"
+    },
+    {
+      "word": "Hungry",
+      "ipa": "/ˈhʌŋ.ɡri/",
+      "meaning": "Đói"
+    },
+    {
+      "word": "Hunt",
+      "ipa": "/hʌnt/",
+      "meaning": "Săn"
+    },
+    {
+      "word": "Husband",
+      "ipa": "/ˈhʌz.bənd/",
+      "meaning": "Chồng"
+    },
+    {
+      "word": "I",
+      "ipa": "/aɪ/",
+      "meaning": "Tôi"
+    },
+    {
+      "word": "Icicles",
+      "ipa": "/ˈaɪ.sɪ.kəlz/",
+      "meaning": "Những cột băng dài"
+    },
+    {
+      "word": "Idea",
+      "ipa": "/aɪˈdɪə/",
+      "meaning": "Ý kiến, ý tưởng"
+    },
+    {
+      "word": "Ill",
+      "ipa": "/ɪl/",
+      "meaning": "Bị bệnh"
+    },
+    {
+      "word": "Immediately",
+      "ipa": "/ɪˈmiː.di.ət.li/",
+      "meaning": "Ngay lập tức"
+    },
+    {
+      "word": "Immensely",
+      "ipa": "/ɪˈmens.li/",
+      "meaning": "Hết sức, vô cùng"
+    },
+    {
+      "word": "In",
+      "ipa": "/ɪn/",
+      "meaning": "Trong, ở trong"
+    },
+    {
+      "word": "India",
+      "ipa": "/ˈɪn.di.ə/",
+      "meaning": "Ấn Độ"
+    },
+    {
+      "word": "Instead",
+      "ipa": "/ɪnˈsted/",
+      "meaning": "Thay vào đó"
+    },
+    {
+      "word": "Internet",
+      "ipa": "/ˈɪn.tər.net/",
+      "meaning": "Mạng internet"
+    },
+    {
+      "word": "Into",
+      "ipa": "/ˈɪn.tuː/",
+      "meaning": "Vào trong"
+    },
+    {
+      "word": "Is",
+      "ipa": "/ɪz/",
+      "meaning": "Là, thì, ở (dạng của 'to be')"
+    },
+    {
+      "word": "It",
+      "ipa": "/ɪt/",
+      "meaning": "Nó"
+    },
+    {
+      "word": "It's",
+      "ipa": "/ɪts/",
+      "meaning": "Nó là"
+    },
+    {
+      "word": "Its",
+      "ipa": "/ɪts/",
+      "meaning": "Của nó"
+    },
+    {
+      "word": "Jacket",
+      "ipa": "/ˈdʒæk.ɪt/",
+      "meaning": "Áo khoác"
+    },
+    {
+      "word": "Jewels",
+      "ipa": "/ˈdʒuː.əlz/",
+      "meaning": "Trang sức, đá quý"
+    },
+    {
+      "word": "Job",
+      "ipa": "/dʒɑːb/",
+      "meaning": "Công việc"
+    },
+    {
+      "word": "Jokes",
+      "ipa": "/dʒoʊks/",
+      "meaning": "Những câu chuyện cười"
+    },
+    {
+      "word": "Jewel",
+      "ipa": "/ˈdʒuː.əl/",
+      "meaning": "Viên ngọc quý"
+    },
+    {
+      "word": "Just",
+      "ipa": "/dʒʌst/",
+      "meaning": "Chỉ, vừa mới"
+    },
+    {
+      "word": "King",
+      "ipa": "/kɪŋ/",
+      "meaning": "Vua"
+    },
+    {
+      "word": "Kiss",
+      "ipa": "/kɪs/",
+      "meaning": "Hôn"
+    },
+    {
+      "word": "Kitchen",
+      "ipa": "/ˈkɪtʃ.ən/",
+      "meaning": "Nhà bếp"
+    },
+    {
+      "word": "Know",
+      "ipa": "/noʊ/",
+      "meaning": "Biết"
+    },
+    {
+      "word": "Knew",
+      "ipa": "/nuː/",
+      "meaning": "Đã biết"
+    },
+    {
+      "word": "Lady",
+      "ipa": "/ˈleɪ.di/",
+      "meaning": "Quý bà"
+    },
+    {
+      "word": "Land",
+      "ipa": "/lænd/",
+      "meaning": "Đất liền, hạ cánh"
+    },
+    {
+      "word": "Lanterns",
+      "ipa": "/ˈlæn.tərnz/",
+      "meaning": "Đèn lồng"
+    },
+    {
+      "word": "Laptop",
+      "ipa": "/ˈlæp.tɑːp/",
+      "meaning": "Máy tính xách tay"
+    },
+    {
+      "word": "Large",
+      "ipa": "/lɑːrdʒ/",
+      "meaning": "Lớn, to"
+    },
+    {
+      "word": "Laugh",
+      "ipa": "/læf/",
+      "meaning": "Cười"
+    },
+    {
+      "word": "Laughed",
+      "ipa": "/læft/",
+      "meaning": "Đã cười"
+    },
+    {
+      "word": "Laughing",
+      "ipa": "/ˈlæf.ɪŋ/",
+      "meaning": "Đang cười, cười khúc khích"
+    },
+    {
+      "word": "Law",
+      "ipa": "/lɑː/",
+      "meaning": "Luật"
+    },
+    {
+      "word": "Lays",
+      "ipa": "/leɪz/",
+      "meaning": "Đẻ (trứng)"
+    },
+    {
+      "word": "Lead",
+      "ipa": "/led/",
+      "meaning": "Chì (kim loại)"
+    },
+    {
+      "word": "Leaf",
+      "ipa": "/liːf/",
+      "meaning": "Lá (cây)"
+    },
+    {
+      "word": "Leave",
+      "ipa": "/liːv/",
+      "meaning": "Rời đi"
+    },
+    {
+      "word": "Left",
+      "ipa": "/left/",
+      "meaning": "Đã rời đi, bên trái"
+    },
+    {
+      "word": "Legs",
+      "ipa": "/leɡz/",
+      "meaning": "Chân"
+    },
+    {
+      "word": "Leads",
+      "ipa": "/liːdz/",
+      "meaning": "Dẫn đường"
+    },
+    {
+      "word": "Lets",
+      "ipa": "/lets/",
+      "meaning": "Hãy (rủ rê)"
+    },
+    {
+      "word": "Lick",
+      "ipa": "/lɪk/",
+      "meaning": "Liếm"
+    },
+    {
+      "word": "Licks",
+      "ipa": "/lɪks/",
+      "meaning": "Liếm"
+    },
+    {
+      "word": "Lie",
+      "ipa": "/laɪ/",
+      "meaning": "Nằm"
+    },
+    {
+      "word": "Light",
+      "ipa": "/laɪt/",
+      "meaning": "Ánh sáng"
+    },
+    {
+      "word": "Likes",
+      "ipa": "/laɪks/",
+      "meaning": "Thích"
+    },
+    {
+      "word": "Lions",
+      "ipa": "/ˈlaɪ.ənz/",
+      "meaning": "Sư tử"
+    },
+    {
+      "word": "Lips",
+      "ipa": "/lɪps/",
+      "meaning": "Môi"
+    },
+    {
+      "word": "Little",
+      "ipa": "/ˈlɪt̬.əl/",
+      "meaning": "Nhỏ bé"
+    },
+    {
+      "word": "Live",
+      "ipa": "/lɪv/",
+      "meaning": "Sống"
+    },
+    {
+      "word": "Lived",
+      "ipa": "/lɪvd/",
+      "meaning": "Đã sống"
+    },
+    {
+      "word": "Living",
+      "ipa": "/ˈlɪv.ɪŋ/",
+      "meaning": "Sống, đang sống"
+    },
+    {
+      "word": "Long",
+      "ipa": "/lɑːŋ/",
+      "meaning": "Dài (thời gian)"
+    },
+    {
+      "word": "Look",
+      "ipa": "/lʊk/",
+      "meaning": "Nhìn"
+    },
+    {
+      "word": "Looked",
+      "ipa": "/lʊkt/",
+      "meaning": "Đã nhìn"
+    },
+    {
+      "word": "Looks",
+      "ipa": "/lʊks/",
+      "meaning": "Trông có vẻ"
+    },
+    {
+      "word": "Loose",
+      "ipa": "/luːs/",
+      "meaning": "Lỏng lẻo"
+    },
+    {
+      "word": "Lost",
+      "ipa": "/lɑːst/",
+      "meaning": "Đã mất"
+    },
+    {
+      "word": "Lots",
+      "ipa": "/lɑːts/",
+      "meaning": "Rất nhiều"
+    },
+    {
+      "word": "Louder",
+      "ipa": "/ˈlaʊ.dər/",
+      "meaning": "Lớn hơn, to hơn (âm thanh)"
+    },
+    {
+      "word": "Lousy",
+      "ipa": "/ˈlaʊ.zi/",
+      "meaning": "Tồi tệ, tệ hại (chê bai)"
+    },
+    {
+      "word": "Love",
+      "ipa": "/lʌv/",
+      "meaning": "Yêu"
+    },
+    {
+      "word": "Loved",
+      "ipa": "/lʌvd/",
+      "meaning": "Đã yêu"
+    },
+    {
+      "word": "Lover",
+      "ipa": "/ˈlʌv.ər/",
+      "meaning": "Người yêu"
+    },
+    {
+      "word": "Lying",
+      "ipa": "/ˈlaɪ.ɪŋ/",
+      "meaning": "Đang nằm"
+    },
+    {
+      "word": "Magnificent",
+      "ipa": "/mæɡˈnɪf.ɪ.sənt/",
+      "meaning": "Tráng lệ, tuyệt đẹp"
+    },
+    {
+      "word": "Maid",
+      "ipa": "/meɪd/",
+      "meaning": "Người hầu gái"
+    },
+    {
+      "word": "Main",
+      "ipa": "/meɪn/",
+      "meaning": "Chính"
+    },
+    {
+      "word": "Make",
+      "ipa": "/meɪk/",
+      "meaning": "Làm, tạo ra"
+    },
+    {
+      "word": "Makes",
+      "ipa": "/meɪks/",
+      "meaning": "Làm cho"
+    },
+    {
+      "word": "Man",
+      "ipa": "/mæn/",
+      "meaning": "Người đàn ông"
+    },
+    {
+      "word": "Many",
+      "ipa": "/ˈmen.i/",
+      "meaning": "Nhiều"
+    },
+    {
+      "word": "Marble",
+      "ipa": "/ˈmɑːr.bəl/",
+      "meaning": "Đá cẩm thạch"
+    },
+    {
+      "word": "Market",
+      "ipa": "/ˈmɑːr.kɪt/",
+      "meaning": "Chợ"
+    },
+    {
+      "word": "Masts",
+      "ipa": "/mæsts/",
+      "meaning": "Cột buồm"
+    },
+    {
+      "word": "Matter",
+      "ipa": "/ˈmæt.ər/",
+      "meaning": "Vấn đề"
+    },
+    {
+      "word": "May",
+      "ipa": "/meɪ/",
+      "meaning": "Có thể"
+    },
+    {
+      "word": "Maybe",
+      "ipa": "/ˈmeɪ.bi/",
+      "meaning": "Có lẽ"
+    },
+    {
+      "word": "Mayor",
+      "ipa": "/meɪər/",
+      "meaning": "Thị trưởng"
+    },
+    {
+      "word": "Me",
+      "ipa": "/miː/",
+      "meaning": "Tôi (tân ngữ)"
+    },
+    {
+      "word": "Mean",
+      "ipa": "/miːn/",
+      "meaning": "Ý nghĩa"
+    },
+    {
+      "word": "Means",
+      "ipa": "/miːnz/",
+      "meaning": "Có nghĩa"
+    },
+    {
+      "word": "Medicine",
+      "ipa": "/ˈmed.ɪ.sən/",
+      "meaning": "Thuốc"
+    },
+    {
+      "word": "Meet",
+      "ipa": "/miːt/",
+      "meaning": "Gặp"
+    },
+    {
+      "word": "Meets",
+      "ipa": "/miːts/",
+      "meaning": "Gặp gỡ"
+    },
+    {
+      "word": "Melt",
+      "ipa": "/melt/",
+      "meaning": "Tan chảy"
+    },
+    {
+      "word": "Messenger",
+      "ipa": "/ˈmes.ɪn.dʒər/",
+      "meaning": "Người đưa tin, sứ giả"
+    },
+    {
+      "word": "Meow",
+      "ipa": "/miˈaʊ/",
+      "meaning": "Meo (tiếng mèo)"
+    },
+    {
+      "word": "Mice",
+      "ipa": "/maɪs/",
+      "meaning": "Chuột (số nhiều)"
+    },
+    {
+      "word": "Might",
+      "ipa": "/maɪt/",
+      "meaning": "Có thể"
+    },
+    {
+      "word": "Milk",
+      "ipa": "/mɪlk/",
+      "meaning": "Sữa"
+    },
+    {
+      "word": "Mind",
+      "ipa": "/maɪnd/",
+      "meaning": "Tâm trí"
+    },
+    {
+      "word": "Misery",
+      "ipa": "/ˈmɪz.ər.i/",
+      "meaning": "Khổ sở, đau khổ"
+    },
+    {
+      "word": "Mix",
+      "ipa": "/mɪks/",
+      "meaning": "Trộn"
+    },
+    {
+      "word": "Mmm",
+      "ipa": "/mːm/",
+      "meaning": "Hừm (tiếng thể hiện sự hài lòng)"
+    },
+    {
+      "word": "Mmmmm",
+      "ipa": "/mːmːm/",
+      "meaning": "Mmmmm (tiếng thể hiện sự thèm muốn)"
+    },
+    {
+      "word": "Molies",
+      "ipa": "/ˈmoʊ.liz/",
+      "meaning": "(Trong 'holy moly')"
+    },
+    {
+      "word": "Mommies",
+      "ipa": "/ˈmɑː.miz/",
+      "meaning": "Mẹ"
+    },
+    {
+      "word": "Money",
+      "ipa": "/ˈmʌn.i/",
+      "meaning": "Tiền"
+    },
+    {
+      "word": "Months",
+      "ipa": "/mʌnθs/",
+      "meaning": "Tháng"
+    },
+    {
+      "word": "Moon",
+      "ipa": "/muːn/",
+      "meaning": "Mặt trăng"
+    },
+    {
+      "word": "More",
+      "ipa": "/mɔːr/",
+      "meaning": "Hơn, thêm"
+    },
+    {
+      "word": "Morning",
+      "ipa": "/ˈmɔːr.nɪŋ/",
+      "meaning": "Buổi sáng"
+    },
+    {
+      "word": "Most",
+      "ipa": "/moʊst/",
+      "meaning": "Nhất, hầu hết"
+    },
+    {
+      "word": "Mother",
+      "ipa": "/ˈmʌð.ər/",
+      "meaning": "Mẹ"
+    },
+    {
+      "word": "Moved",
+      "ipa": "/muːvd/",
+      "meaning": "Đã di chuyển"
+    },
+    {
+      "word": "Moving",
+      "ipa": "/ˈmuː.vɪŋ/",
+      "meaning": "Đang di chuyển"
+    },
+    {
+      "word": "Mr",
+      "ipa": "/ˈmɪs.tər/",
+      "meaning": "Ông (danh xưng)"
+    },
+    {
+      "word": "Mrs",
+      "ipa": "/ˈmɪs.ɪz/",
+      "meaning": "Bà (danh xưng)"
+    },
+    {
+      "word": "Much",
+      "ipa": "/mʌtʃ/",
+      "meaning": "Nhiều"
+    },
+    {
+      "word": "Mud",
+      "ipa": "/mʌd/",
+      "meaning": "Bùn"
+    },
+    {
+      "word": "Music",
+      "ipa": "/ˈmjuː.zɪk/",
+      "meaning": "Âm nhạc"
+    },
+    {
+      "word": "Must",
+      "ipa": "/mʌst/",
+      "meaning": "Phải"
+    },
+    {
+      "word": "Muttered",
+      "ipa": "/ˈmʌt.ərd/",
+      "meaning": "Lẩm bẩm"
+    },
+    {
+      "word": "My",
+      "ipa": "/maɪ/",
+      "meaning": "Của tôi"
+    },
+    {
+      "word": "Mystery",
+      "ipa": "/ˈmɪs.tər.i/",
+      "meaning": "Điều bí ẩn"
+    },
+    {
+      "word": "Napping",
+      "ipa": "/ˈnæp.ɪŋ/",
+      "meaning": "Ngủ trưa"
+    },
+    {
+      "word": "Nests",
+      "ipa": "/nests/",
+      "meaning": "Tổ chim"
+    },
+    {
+      "word": "Never",
+      "ipa": "/ˈnev.ər/",
+      "meaning": "Không bao giờ"
+    },
+    {
+      "word": "New",
+      "ipa": "/nuː/",
+      "meaning": "Mới"
+    },
+    {
+      "word": "News",
+      "ipa": "/nuːz/",
+      "meaning": "Tin tức"
+    },
+    {
+      "word": "Nice",
+      "ipa": "/naɪs/",
+      "meaning": "Tốt, đẹp, dễ chịu"
+    },
+    {
+      "word": "Nile",
+      "ipa": "/naɪl/",
+      "meaning": "Sông Nile"
+    },
+    {
+      "word": "No",
+      "ipa": "/noʊ/",
+      "meaning": "Không"
+    },
+    {
+      "word": "Noon",
+      "ipa": "/nuːn/",
+      "meaning": "Buổi trưa"
+    },
+    {
+      "word": "Normal",
+      "ipa": "/ˈnɔːr.məl/",
+      "meaning": "Bình thường"
+    },
+    {
+      "word": "Nose",
+      "ipa": "/noʊz/",
+      "meaning": "Mũi"
+    },
+    {
+      "word": "Not",
+      "ipa": "/nɑːt/",
+      "meaning": "Không"
+    },
+    {
+      "word": "Note",
+      "ipa": "/noʊt/",
+      "meaning": "Ghi chú"
+    },
+    {
+      "word": "Nothing",
+      "ipa": "/ˈnʌθ.ɪŋ/",
+      "meaning": "Không có gì"
+    },
+    {
+      "word": "Now",
+      "ipa": "/naʊ/",
+      "meaning": "Bây giờ"
+    },
+    {
+      "word": "Ocean",
+      "ipa": "/ˈoʊ.ʃən/",
+      "meaning": "Đại dương"
+    },
+    {
+      "word": "O'clock",
+      "ipa": "/əˈklɑːk/",
+      "meaning": "Giờ"
+    },
+    {
+      "word": "Of",
+      "ipa": "/əv/",
+      "meaning": "Của"
+    },
+    {
+      "word": "Off",
+      "ipa": "/ɑːf/",
+      "meaning": "Rời khỏi, đi khỏi"
+    },
+    {
+      "word": "Oh",
+      "ipa": "/oʊ/",
+      "meaning": "Ồ (thán từ)"
+    },
+    {
+      "word": "Ok",
+      "ipa": "/ˌoʊˈkeɪ/",
+      "meaning": "Được, ổn"
+    },
+    {
+      "word": "Once",
+      "ipa": "/wʌns/",
+      "meaning": "Một lần, ngày xửa ngày xưa"
+    },
+    {
+      "word": "One",
+      "ipa": "/wʌn/",
+      "meaning": "Một"
+    },
+    {
+      "word": "Only",
+      "ipa": "/ˈoʊn.li/",
+      "meaning": "Chỉ"
+    },
+    {
+      "word": "Open",
+      "ipa": "/ˈoʊ.pən/",
+      "meaning": "Mở"
+    },
+    {
+      "word": "Oranges",
+      "ipa": "/ˈɔːr.ɪn.dʒɪz/",
+      "meaning": "Cam"
+    },
+    {
+      "word": "Other",
+      "ipa": "/ˈʌð.ər/",
+      "meaning": "Khác"
+    },
+    {
+      "word": "Out",
+      "ipa": "/aʊt/",
+      "meaning": "Ra ngoài"
+    },
+    {
+      "word": "Oven",
+      "ipa": "/ˈʌv.ən/",
+      "meaning": "Lò nướng"
+    },
+    {
+      "word": "Over",
+      "ipa": "/ˈoʊ.vər/",
+      "meaning": "Qua, bên trên"
+    },
+    {
+      "word": "Ow",
+      "ipa": "/aʊ/",
+      "meaning": "Ôi (tiếng kêu đau)"
+    },
+    {
+      "word": "Owie",
+      "ipa": "/ˈaʊ.i/",
+      "meaning": "Đau (tiếng kêu đau)"
+    },
+    {
+      "word": "Palace",
+      "ipa": "/ˈpæl.ɪs/",
+      "meaning": "Cung điện"
+    },
+    {
+      "word": "Palm",
+      "ipa": "/pɑːm/",
+      "meaning": "Cây cọ, cây chà là"
+    },
+    {
+      "word": "Pan",
+      "ipa": "/pæn/",
+      "meaning": "Chảo"
+    },
+    {
+      "word": "Paper",
+      "ipa": "/ˈpeɪ.pər/",
+      "meaning": "Giấy tờ"
+    },
+    {
+      "word": "Paradise",
+      "ipa": "/ˈpær.ə.daɪs/",
+      "meaning": "Thiên đường"
+    },
+    {
+      "word": "Pass",
+      "ipa": "/pæs/",
+      "meaning": "Đi qua"
+    },
+    {
+      "word": "Past",
+      "ipa": "/pæst/",
+      "meaning": "Qua"
+    },
+    {
+      "word": "Paw",
+      "ipa": "/pɑː/",
+      "meaning": "Chân (của gấu)"
+    },
+    {
+      "word": "Pecks",
+      "ipa": "/peks/",
+      "meaning": "Mổ (đất)"
+    },
+    {
+      "word": "Pen",
+      "ipa": "/pen/",
+      "meaning": "Bút"
+    },
+    {
+      "word": "People",
+      "ipa": "/ˈpiː.pəl/",
+      "meaning": "Con người, dân chúng"
+    },
+    {
+      "word": "Percy",
+      "ipa": "/ˈpɜːr.si/",
+      "meaning": "Tên riêng (bồ câu Percy)"
+    },
+    {
+      "word": "Perfect",
+      "ipa": "/ˈpɜːr.fɪkt/",
+      "meaning": "Hoàn hảo"
+    },
+    {
+      "word": "Permitted",
+      "ipa": "/pərˈmɪt.ɪd/",
+      "meaning": "Được phép"
+    },
+    {
+      "word": "Person",
+      "ipa": "/ˈpɜːr.sən/",
+      "meaning": "Người"
+    },
+    {
+      "word": "Pet",
+      "ipa": "/pet/",
+      "meaning": "Vật nuôi"
+    },
+    {
+      "word": "Pieces",
+      "ipa": "/ˈpiː.sɪz/",
+      "meaning": "Mảnh, miếng"
+    },
+    {
+      "word": "Pick",
+      "ipa": "/pɪk/",
+      "meaning": "Hái, nhặt"
+    },
+    {
+      "word": "Pigeon",
+      "ipa": "/ˈpɪdʒ.ən/",
+      "meaning": "Bồ câu"
+    },
+    {
+      "word": "Pile",
+      "ipa": "/paɪl/",
+      "meaning": "Đống"
+    },
+    {
+      "word": "Pity",
+      "ipa": "/ˈpɪt.i/",
+      "meaning": "Lòng thương hại"
+    },
+    {
+      "word": "Place",
+      "ipa": "/pleɪs/",
+      "meaning": "Nơi, chỗ"
+    },
+    {
+      "word": "Plate",
+      "ipa": "/pleɪt/",
+      "meaning": "Đĩa"
+    },
+    {
+      "word": "Play",
+      "ipa": "/pleɪ/",
+      "meaning": "Chơi, vở kịch"
+    },
+    {
+      "word": "Played",
+      "ipa": "/pleɪd/",
+      "meaning": "Đã chơi"
+    },
+    {
+      "word": "Pleasure",
+      "ipa": "/ˈpleʒ.ər/",
+      "meaning": "Niềm vui, sự khoái lạc"
+    },
+    {
+      "word": "Plop",
+      "ipa": "/plɑːp/",
+      "meaning": "Tõm (tiếng rơi)"
+    },
+    {
+      "word": "Poetry",
+      "ipa": "/ˈpoʊ.ə.tri/",
+      "meaning": "Thơ ca"
+    },
+    {
+      "word": "Polite",
+      "ipa": "/pəˈlaɪt/",
+      "meaning": "Lịch sự"
+    },
+    {
+      "word": "Pond",
+      "ipa": "/pɑːnd/",
+      "meaning": "Ao"
+    },
+    {
+      "word": "Poor",
+      "ipa": "/pʊr/",
+      "meaning": "Nghèo, tội nghiệp"
+    },
+    {
+      "word": "Pretty",
+      "ipa": "/ˈprɪt.i/",
+      "meaning": "Xinh đẹp"
+    },
+    {
+      "word": "Price",
+      "ipa": "/praɪs/",
+      "meaning": "Giá"
+    },
+    {
+      "word": "Prince",
+      "ipa": "/prɪns/",
+      "meaning": "Hoàng tử"
+    },
+    {
+      "word": "Promises",
+      "ipa": "/ˈprɑː.mɪs.ɪz/",
+      "meaning": "Lời hứa"
+    },
+    {
+      "word": "Protect",
+      "ipa": "/prəˈtekt/",
+      "meaning": "Bảo vệ"
+    },
+    {
+      "word": "Pull",
+      "ipa": "/pʊl/",
+      "meaning": "Kéo"
+    },
+    {
+      "word": "Punished",
+      "ipa": "/ˈpʌn.ɪʃt/",
+      "meaning": "Bị phạt"
+    },
+    {
+      "word": "Put",
+      "ipa": "/pʊt/",
+      "meaning": "Đặt, để"
+    },
+    {
+      "word": "Puts",
+      "ipa": "/pʊts/",
+      "meaning": "Đặt, để"
+    },
+    {
+      "word": "Pussycat",
+      "ipa": "/ˈpʊs.i.kæt/",
+      "meaning": "Mèo con"
+    },
+    {
+      "word": "Pyramids",
+      "ipa": "/ˈpɪr.ə.mɪdz/",
+      "meaning": "Kim tự tháp"
+    },
+    {
+      "word": "Quite",
+      "ipa": "/kwaɪt/",
+      "meaning": "Khá"
+    },
+    {
+      "word": "Rain",
+      "ipa": "/reɪn/",
+      "meaning": "Mưa"
+    },
+    {
+      "word": "Raspberry",
+      "ipa": "/ˈræz.ber.i/",
+      "meaning": "Quả mâm xôi"
+    },
+    {
+      "word": "Reach",
+      "ipa": "/riːtʃ/",
+      "meaning": "Đến, với tới"
+    },
+    {
+      "word": "Reading",
+      "ipa": "/ˈriː.dɪŋ/",
+      "meaning": "Đang đọc"
+    },
+    {
+      "word": "Ready",
+      "ipa": "/ˈred.i/",
+      "meaning": "Sẵn sàng"
+    },
+    {
+      "word": "Really",
+      "ipa": "/ˈriː.ə.li/",
+      "meaning": "Thực sự"
+    },
+    {
+      "word": "Red",
+      "ipa": "/red/",
+      "meaning": "Màu đỏ"
+    },
+    {
+      "word": "Reed",
+      "ipa": "/riːd/",
+      "meaning": "Cây sậy"
+    },
+    {
+      "word": "Refused",
+      "ipa": "/rɪˈfjuːzd/",
+      "meaning": "Đã từ chối"
+    },
+    {
+      "word": "Relief",
+      "ipa": "/rɪˈliːf/",
+      "meaning": "Sự khuây khỏa"
+    },
+    {
+      "word": "Remove",
+      "ipa": "/rɪˈmuːv/",
+      "meaning": "Tháo ra, bóc ra"
+    },
+    {
+      "word": "Removes",
+      "ipa": "/rɪˈmuːvz/",
+      "meaning": "Tháo ra, bóc ra"
+    },
+    {
+      "word": "Replace",
+      "ipa": "/rɪˈpleɪs/",
+      "meaning": "Thay thế"
+    },
+    {
+      "word": "Reply",
+      "ipa": "/rɪˈplaɪ/",
+      "meaning": "Trả lời"
+    },
+    {
+      "word": "Replied",
+      "ipa": "/rɪˈplaɪd/",
+      "meaning": "Đã trả lời"
+    },
+    {
+      "word": "Rest",
+      "ipa": "/rest/",
+      "meaning": "Nghỉ ngơi"
+    },
+    {
+      "word": "Resting",
+      "ipa": "/ˈres.tɪŋ/",
+      "meaning": "Đang nghỉ ngơi"
+    },
+    {
+      "word": "Return",
+      "ipa": "/rɪˈtɜːrn/",
+      "meaning": "Quay lại"
+    },
+    {
+      "word": "Returned",
+      "ipa": "/rɪˈtɜːrnd/",
+      "meaning": "Đã quay lại"
+    },
+    {
+      "word": "Ridiculous",
+      "ipa": "/rɪˈdɪk.jə.ləs/",
+      "meaning": "Lố bịch, nực cười"
+    },
+    {
+      "word": "Right",
+      "ipa": "/raɪt/",
+      "meaning": "Ngay, phải (phương hướng)"
+    },
+    {
+      "word": "Rise",
+      "ipa": "/raɪz/",
+      "meaning": "Mọc (mặt trời)"
+    },
+    {
+      "word": "River",
+      "ipa": "/ˈrɪv.ər/",
+      "meaning": "Sông"
+    },
+    {
+      "word": "Road",
+      "ipa": "/roʊd/",
+      "meaning": "Con đường"
+    },
+    {
+      "word": "Roaring",
+      "ipa": "/ˈrɔːr.ɪŋ/",
+      "meaning": "Gầm"
+    },
+    {
+      "word": "Romance",
+      "ipa": "/roʊˈmæns/",
+      "meaning": "Chuyện tình lãng mạn"
+    },
+    {
+      "word": "Room",
+      "ipa": "/ruːm/",
+      "meaning": "Phòng, chỗ (không gian)"
+    },
+    {
+      "word": "Roof",
+      "ipa": "/ruːf/",
+      "meaning": "Mái nhà"
+    },
+    {
+      "word": "Rosy",
+      "ipa": "/ˈroʊ.zi/",
+      "meaning": "Hồng hào"
+    },
+    {
+      "word": "Round",
+      "ipa": "/raʊnd/",
+      "meaning": "Tròn"
+    },
+    {
+      "word": "Ruby",
+      "ipa": "/ˈruː.bi/",
+      "meaning": "Hồng ngọc"
+    },
+    {
+      "word": "Rude",
+      "ipa": "/ruːd/",
+      "meaning": "Thô lỗ"
+    },
+    {
+      "word": "Ruined",
+      "ipa": "/ˈruː.ɪnd/",
+      "meaning": "Bị hỏng, bị hủy hoại"
+    },
+    {
+      "word": "Run",
+      "ipa": "/rʌn/",
+      "meaning": "Chạy"
+    },
+    {
+      "word": "Runs",
+      "ipa": "/rʌnz/",
+      "meaning": "Chạy"
+    },
+    {
+      "word": "Running",
+      "ipa": "/ˈrʌn.ɪŋ/",
+      "meaning": "Đang chạy"
+    },
+    {
+      "word": "Rustling",
+      "ipa": "/ˈrʌs.lɪŋ/",
+      "meaning": "Tiếng xào xạc (của cánh)"
+    },
+    {
+      "word": "Safe",
+      "ipa": "/seɪf/",
+      "meaning": "An toàn"
+    },
+    {
+      "word": "Said",
+      "ipa": "/sed/",
+      "meaning": "Đã nói"
+    },
+    {
+      "word": "Sailors",
+      "ipa": "/ˈseɪ.lər/",
+      "meaning": "Thủy thủ"
+    },
+    {
+      "word": "Same",
+      "ipa": "/seɪm/",
+      "meaning": "Giống nhau"
+    },
+    {
+      "word": "Sang",
+      "ipa": "/sæŋ/",
+      "meaning": "Đã hát"
+    },
+    {
+      "word": "Sans-souci",
+      "ipa": "/sɑːn suːˈsiː/",
+      "meaning": "Tên riêng (cung điện)"
+    },
+    {
+      "word": "Sapphire",
+      "ipa": "/ˈsæf.aɪər/",
+      "meaning": "Ngọc bích"
+    },
+    {
+      "word": "Says",
+      "ipa": "/sez/",
+      "meaning": "Nói"
+    },
+    {
+      "word": "Scampers",
+      "ipa": "/ˈskæm.pərz/",
+      "meaning": "Chạy nhanh, lủi đi"
+    },
+    {
+      "word": "Scared",
+      "ipa": "/skeərd/",
+      "meaning": "Sợ hãi"
+    },
+    {
+      "word": "School",
+      "ipa": "/skuːl/",
+      "meaning": "Trường học"
+    },
+    {
+      "word": "Sea",
+      "ipa": "/siː/",
+      "meaning": "Biển"
+    },
+    {
+      "word": "Seamstress",
+      "ipa": "/ˈsiːm.stres/",
+      "meaning": "Thợ may"
+    },
+    {
+      "word": "Sees",
+      "ipa": "/siːz/",
+      "meaning": "Nhìn thấy"
+    },
+    {
+      "word": "Selling",
+      "ipa": "/ˈsel.ɪŋ/",
+      "meaning": "Đang bán"
+    },
+    {
+      "word": "Seller",
+      "ipa": "/ˈsel.ər/",
+      "meaning": "Người bán hàng"
+    },
+    {
+      "word": "Sense",
+      "ipa": "/sens/",
+      "meaning": "Ý thức"
+    },
+    {
+      "word": "Sent",
+      "ipa": "/sent/",
+      "meaning": "Đã gửi"
+    },
+    {
+      "word": "Separate",
+      "ipa": "/ˈsep.ər.ət/",
+      "meaning": "Riêng biệt"
+    },
+    {
+      "word": "Sew",
+      "ipa": "/soʊ/",
+      "meaning": "May"
+    },
+    {
+      "word": "Sewing",
+      "ipa": "/ˈsoʊ.ɪŋ/",
+      "meaning": "Đang may"
+    },
+    {
+      "word": "Shade",
+      "ipa": "/ʃeɪd/",
+      "meaning": "Bóng râm"
+    },
+    {
+      "word": "Shadows",
+      "ipa": "/ˈʃæd.oʊz/",
+      "meaning": "Bóng tối"
+    },
+    {
+      "word": "Shake",
+      "ipa": "/ʃeɪk/",
+      "meaning": "Lắc"
+    },
+    {
+      "word": "Shame",
+      "ipa": "/ʃeɪm/",
+      "meaning": "Đáng xấu hổ"
+    },
+    {
+      "word": "She",
+      "ipa": "/ʃiː/",
+      "meaning": "Cô ấy, bà ấy"
+    },
+    {
+      "word": "Shine",
+      "ipa": "/ʃaɪn/",
+      "meaning": "Chiếu sáng"
+    },
+    {
+      "word": "Shining",
+      "ipa": "/ˈʃaɪ.nɪŋ/",
+      "meaning": "Đang chiếu sáng"
+    },
+    {
+      "word": "Ship",
+      "ipa": "/ʃɪp/",
+      "meaning": "Con tàu"
+    },
+    {
+      "word": "Ships",
+      "ipa": "/ʃɪps/",
+      "meaning": "Những con tàu"
+    },
+    {
+      "word": "Shoots",
+      "ipa": "/ʃuːts/",
+      "meaning": "Bắn"
+    },
+    {
+      "word": "Shore",
+      "ipa": "/ʃɔːr/",
+      "meaning": "Bờ (sông, biển)"
+    },
+    {
+      "word": "Short",
+      "ipa": "/ʃɔːrt/",
+      "meaning": "Lùn, ngắn"
+    },
+    {
+      "word": "Should",
+      "ipa": "/ʃʊd/",
+      "meaning": "Nên"
+    },
+    {
+      "word": "Shout",
+      "ipa": "/ʃaʊt/",
+      "meaning": "La hét"
+    },
+    {
+      "word": "Shouts",
+      "ipa": "/ʃaʊts/",
+      "meaning": "La hét"
+    },
+    {
+      "word": "Show",
+      "ipa": "/ʃoʊ/",
+      "meaning": "Cho xem"
+    },
+    {
+      "word": "Shut",
+      "ipa": "/ʃʌt/",
+      "meaning": "Đóng (cửa)"
+    },
+    {
+      "word": "Sigh",
+      "ipa": "/saɪ/",
+      "meaning": "Thở dài"
+    },
+    {
+      "word": "Sighed",
+      "ipa": "/saɪd/",
+      "meaning": "Đã thở dài"
+    },
+    {
+      "word": "Silly",
+      "ipa": "/ˈsɪl.i/",
+      "meaning": "Ngớ ngẩn"
+    },
+    {
+      "word": "Since",
+      "ipa": "/sɪns/",
+      "meaning": "Kể từ khi"
+    },
+    {
+      "word": "Sing",
+      "ipa": "/sɪŋ/",
+      "meaning": "Hát"
+    },
+    {
+      "word": "Single",
+      "ipa": "/ˈsɪŋ.ɡəl/",
+      "meaning": "Đơn độc"
+    },
+    {
+      "word": "Sitting",
+      "ipa": "/ˈsɪt.ɪŋ/",
+      "meaning": "Đang ngồi"
+    },
+    {
+      "word": "Six",
+      "ipa": "/sɪks/",
+      "meaning": "Sáu"
+    },
+    {
+      "word": "Skate",
+      "ipa": "/skeɪt/",
+      "meaning": "Trượt băng"
+    },
+    {
+      "word": "Skies",
+      "ipa": "/skaɪz/",
+      "meaning": "Bầu trời (số nhiều)"
+    },
+    {
+      "word": "Sky",
+      "ipa": "/skaɪ/",
+      "meaning": "Bầu trời"
+    },
+    {
+      "word": "Slams",
+      "ipa": "/slæmz/",
+      "meaning": "Đóng rầm (cửa)"
+    },
+    {
+      "word": "Sleep",
+      "ipa": "/sliːp/",
+      "meaning": "Ngủ"
+    },
+    {
+      "word": "Sleeping",
+      "ipa": "/ˈsliː.pɪŋ/",
+      "meaning": "Đang ngủ"
+    },
+    {
+      "word": "Slender",
+      "ipa": "/ˈslen.dər/",
+      "meaning": "Mảnh khảnh, thon thả"
+    },
+    {
+      "word": "Slow",
+      "ipa": "/sloʊ/",
+      "meaning": "Chậm"
+    },
+    {
+      "word": "Slowly",
+      "ipa": "/ˈsloʊ.li/",
+      "meaning": "Chậm rãi"
+    },
+    {
+      "word": "Small",
+      "ipa": "/smɑːl/",
+      "meaning": "Nhỏ"
+    },
+    {
+      "word": "Smash",
+      "ipa": "/smæʃ/",
+      "meaning": "Đập vỡ"
+    },
+    {
+      "word": "Smell",
+      "ipa": "/smel/",
+      "meaning": "Mùi, ngửi thấy"
+    },
+    {
+      "word": "Smile",
+      "ipa": "/smaɪl/",
+      "meaning": "Nụ cười"
+    },
+    {
+      "word": "Snow",
+      "ipa": "/snoʊ/",
+      "meaning": "Tuyết"
+    },
+    {
+      "word": "So",
+      "ipa": "/soʊ/",
+      "meaning": "Vì vậy, quá"
+    },
+    {
+      "word": "Soar",
+      "ipa": "/sɔːr/",
+      "meaning": "Bay lượn cao"
+    },
+    {
+      "word": "Soaring",
+      "ipa": "/ˈsɔːr.ɪŋ/",
+      "meaning": "Đang bay lượn cao"
+    },
+    {
+      "word": "Socks",
+      "ipa": "/sɑːks/",
+      "meaning": "Vớ, tất"
+    },
+    {
+      "word": "Solid",
+      "ipa": "/ˈsɑːl.ɪd/",
+      "meaning": "Đặc, nguyên khối"
+    },
+    {
+      "word": "Something",
+      "ipa": "/ˈsʌm.θɪŋ/",
+      "meaning": "Một cái gì đó"
+    },
+    {
+      "word": "Sometimes",
+      "ipa": "/ˈsʌm.taɪmz/",
+      "meaning": "Đôi khi"
+    },
+    {
+      "word": "Songs",
+      "ipa": "/sɑːŋz/",
+      "meaning": "Những bài hát"
+    },
+    {
+      "word": "Soon",
+      "ipa": "/suːn/",
+      "meaning": "Chẳng bao lâu nữa"
+    },
+    {
+      "word": "Sorrow",
+      "ipa": "/ˈsɔːr.oʊ/",
+      "meaning": "Buồn bã, đau khổ"
+    },
+    {
+      "word": "Sorry",
+      "ipa": "/ˈsɑːr.i/",
+      "meaning": "Xin lỗi"
+    },
+    {
+      "word": "Sound",
+      "ipa": "/saʊnd/",
+      "meaning": "Âm thanh"
+    },
+    {
+      "word": "Space",
+      "ipa": "/speɪs/",
+      "meaning": "Không gian"
+    },
+    {
+      "word": "Sparrow",
+      "ipa": "/ˈspær.oʊ/",
+      "meaning": "Chim sẻ"
+    },
+    {
+      "word": "Speak",
+      "ipa": "/spiːk/",
+      "meaning": "Nói"
+    },
+    {
+      "word": "Spends",
+      "ipa": "/spendz/",
+      "meaning": "Dành (thời gian)"
+    },
+    {
+      "word": "Sphinx",
+      "ipa": "/sfɪŋks/",
+      "meaning": "Nhân sư"
+    },
+    {
+      "word": "Splash",
+      "ipa": "/splæʃ/",
+      "meaning": "Bắn tung tóe (nước)"
+    },
+    {
+      "word": "Sprinkles",
+      "ipa": "/ˈsprɪŋ.kəlz/",
+      "meaning": "Rắc"
+    },
+    {
+      "word": "Spring",
+      "ipa": "/sprɪŋ/",
+      "meaning": "Mùa xuân"
+    },
+    {
+      "word": "Square",
+      "ipa": "/skweər/",
+      "meaning": "Quảng trường"
+    },
+    {
+      "word": "Squeals",
+      "ipa": "/skwiːlz/",
+      "meaning": "Kêu ré lên (vì vui)"
+    },
+    {
+      "word": "Squeeze",
+      "ipa": "/skwiːz/",
+      "meaning": "Nhắm nghiền (mắt)"
+    },
+    {
+      "word": "Squash",
+      "ipa": "/skwɑːʃ/",
+      "meaning": "Nghiền nát, đè bẹp"
+    },
+    {
+      "word": "Statue",
+      "ipa": "/ˈstætʃ.uː/",
+      "meaning": "Bức tượng"
+    },
+    {
+      "word": "Stay",
+      "ipa": "/steɪ/",
+      "meaning": "Ở lại"
+    },
+    {
+      "word": "Stayed",
+      "ipa": "/steɪd/",
+      "meaning": "Đã ở lại"
+    },
+    {
+      "word": "Steady",
+      "ipa": "/ˈsted.i/",
+      "meaning": "Ổn định, vững chắc"
+    },
+    {
+      "word": "Stick",
+      "ipa": "/stɪk/",
+      "meaning": "Cái gậy"
+    },
+    {
+      "word": "Sting",
+      "ipa": "/stɪŋ/",
+      "meaning": "Đốt (của ong)"
+    },
+    {
+      "word": "Stinging",
+      "ipa": "/ˈstɪŋ.ɪŋ/",
+      "meaning": "Đang đốt"
+    },
+    {
+      "word": "Stings",
+      "ipa": "/stɪŋz/",
+      "meaning": "Đốt (số nhiều hoặc hiện tại đơn)"
+    },
+    {
+      "word": "Stir",
+      "ipa": "/stɜːr/",
+      "meaning": "Khuấy"
+    },
+    {
+      "word": "Stirs",
+      "ipa": "/stɜːrz/",
+      "meaning": "Khuấy"
+    },
+    {
+      "word": "Stones",
+      "ipa": "/stoʊnz/",
+      "meaning": "Đá, hòn đá"
+    },
+    {
+      "word": "Stop",
+      "ipa": "/stɑːp/",
+      "meaning": "Ngừng, dừng lại"
+    },
+    {
+      "word": "Stories",
+      "ipa": "/ˈstɔːr.iz/",
+      "meaning": "Những câu chuyện"
+    },
+    {
+      "word": "Story",
+      "ipa": "/ˈstɔːr.i/",
+      "meaning": "Câu chuyện"
+    },
+    {
+      "word": "Strange",
+      "ipa": "/streɪndʒ/",
+      "meaning": "Kỳ lạ"
+    },
+    {
+      "word": "Stranger",
+      "ipa": "/ˈstreɪn.dʒər/",
+      "meaning": "Người lạ"
+    },
+    {
+      "word": "Street",
+      "ipa": "/striːt/",
+      "meaning": "Đường phố"
+    },
+    {
+      "word": "Streets",
+      "ipa": "/striːts/",
+      "meaning": "Những con đường"
+    },
+    {
+      "word": "Streaming",
+      "ipa": "/ˈstriː.mɪŋ/",
+      "meaning": "Chảy thành dòng"
+    },
+    {
+      "word": "Stronger",
+      "ipa": "/ˈstrɑːŋ.ɡər/",
+      "meaning": "Mạnh hơn"
+    },
+    {
+      "word": "Stupid",
+      "ipa": "/ˈstuː.pɪd/",
+      "meaning": "Ngốc nghếch"
+    },
+    {
+      "word": "Such",
+      "ipa": "/sʌtʃ/",
+      "meaning": "Như vậy, quá"
+    },
+    {
+      "word": "Suffering",
+      "ipa": "/ˈsʌf.ər.ɪŋ/",
+      "meaning": "Sự đau khổ"
+    },
+    {
+      "word": "Sugar",
+      "ipa": "/ˈʃʊɡ.ər/",
+      "meaning": "Đường"
+    },
+    {
+      "word": "Summer",
+      "ipa": "/ˈsʌm.ər/",
+      "meaning": "Mùa hè"
+    },
+    {
+      "word": "Sun",
+      "ipa": "/sʌn/",
+      "meaning": "Mặt trời"
+    },
+    {
+      "word": "Supermarket",
+      "ipa": "/ˈsuː.pərˌmɑːr.kɪt/",
+      "meaning": "Siêu thị"
+    },
+    {
+      "word": "Sure",
+      "ipa": "/ʃʊr/",
+      "meaning": "Chắc chắn"
+    },
+    {
+      "word": "Surface",
+      "ipa": "/ˈsɜːr.fɪs/",
+      "meaning": "Bề mặt"
+    },
+    {
+      "word": "Swallow",
+      "ipa": "/ˈswɑː.loʊ/",
+      "meaning": "Chim én"
+    },
+    {
+      "word": "Swallow’s",
+      "ipa": "/ˈswɑː.loʊz/",
+      "meaning": "Của chim én"
+    },
+    {
+      "word": "Swam",
+      "ipa": "/swæm/",
+      "meaning": "Đã bơi"
+    },
+    {
+      "word": "Swimming",
+      "ipa": "/ˈswɪm.ɪŋ/",
+      "meaning": "Đang bơi"
+    },
+    {
+      "word": "Swings",
+      "ipa": "/swɪŋz/",
+      "meaning": "Vung (tay/gậy)"
+    },
+    {
+      "word": "Sword",
+      "ipa": "/sɔːrd/",
+      "meaning": "Thanh kiếm"
+    },
+    {
+      "word": "Tail",
+      "ipa": "/teɪl/",
+      "meaning": "Đuôi"
+    },
+    {
+      "word": "Take",
+      "ipa": "/teɪk/",
+      "meaning": "Lấy, mang đi"
+    },
+    {
+      "word": "Takes",
+      "ipa": "/teɪks/",
+      "meaning": "Lấy, mang đi"
+    },
+    {
+      "word": "Talk",
+      "ipa": "/tɑːk/",
+      "meaning": "Nói chuyện"
+    },
+    {
+      "word": "Talked",
+      "ipa": "/tɑːkt/",
+      "meaning": "Đã nói chuyện"
+    },
+    {
+      "word": "Tall",
+      "ipa": "/tɑːl/",
+      "meaning": "Cao"
+    },
+    {
+      "word": "Teach",
+      "ipa": "/tiːtʃ/",
+      "meaning": "Dạy"
+    },
+    {
+      "word": "Tear",
+      "ipa": "/teər/",
+      "meaning": "Xé"
+    },
+    {
+      "word": "Tears",
+      "ipa": "/tɪərz/",
+      "meaning": "Nước mắt"
+    },
+    {
+      "word": "Tell",
+      "ipa": "/tel/",
+      "meaning": "Kể, nói"
+    },
+    {
+      "word": "Temper",
+      "ipa": "/ˈtem.pər/",
+      "meaning": "Tính khí, cơn giận"
+    },
+    {
+      "word": "Terrifying",
+      "ipa": "/ˈter.ə.faɪ.ɪŋ/",
+      "meaning": "Đáng sợ"
+    },
+    {
+      "word": "That",
+      "ipa": "/ðæt/",
+      "meaning": "Rằng, đó"
+    },
+    {
+      "word": "The",
+      "ipa": "/ðə/, /ðiː/",
+      "meaning": "Mạo từ xác định"
+    },
+    {
+      "word": "Their",
+      "ipa": "/ðeər/",
+      "meaning": "Của họ"
+    },
+    {
+      "word": "Them",
+      "ipa": "/ðem/",
+      "meaning": "Họ (tân ngữ)"
+    },
+    {
+      "word": "Then",
+      "ipa": "/ðen/",
+      "meaning": "Sau đó"
+    },
+    {
+      "word": "There",
+      "ipa": "/ðeər/",
+      "meaning": "Ở đó, có"
+    },
+    {
+      "word": "Therefore",
+      "ipa": "/ˈðeər.fɔːr/",
+      "meaning": "Do đó"
+    },
+    {
+      "word": "They",
+      "ipa": "/ðeɪ/",
+      "meaning": "Họ"
+    },
+    {
+      "word": "Thin",
+      "ipa": "/θɪn/",
+      "meaning": "Gầy, mỏng"
+    },
+    {
+      "word": "Thing",
+      "ipa": "/θɪŋ/",
+      "meaning": "Thứ, điều"
+    },
+    {
+      "word": "Think",
+      "ipa": "/θɪŋk/",
+      "meaning": "Nghĩ"
+    },
+    {
+      "word": "Thinking",
+      "ipa": "/ˈθɪŋ.kɪŋ/",
+      "meaning": "Việc suy nghĩ"
+    },
+    {
+      "word": "Third",
+      "ipa": "/θɜːrd/",
+      "meaning": "Thứ ba"
+    },
+    {
+      "word": "Thirsty",
+      "ipa": "/ˈθɜːr.sti/",
+      "meaning": "Khát nước"
+    },
+    {
+      "word": "This",
+      "ipa": "/ðɪs/",
+      "meaning": "Này, đây"
+    },
+    {
+      "word": "Those",
+      "ipa": "/ðoʊz/",
+      "meaning": "Những cái đó"
+    },
+    {
+      "word": "Though",
+      "ipa": "/ðoʊ/",
+      "meaning": "Mặc dù"
+    },
+    {
+      "word": "Thought",
+      "ipa": "/θɑːt/",
+      "meaning": "Đã nghĩ"
+    },
+    {
+      "word": "Thousand",
+      "ipa": "/ˈθaʊ.zənd/",
+      "meaning": "Một nghìn"
+    },
+    {
+      "word": "Three",
+      "ipa": "/θriː/",
+      "meaning": "Ba"
+    },
+    {
+      "word": "Through",
+      "ipa": "/θruː/",
+      "meaning": "Xuyên qua"
+    },
+    {
+      "word": "Throw",
+      "ipa": "/θroʊ/",
+      "meaning": "Ném"
+    },
+    {
+      "word": "Thrown",
+      "ipa": "/θroʊn/",
+      "meaning": "Bị ném"
+    },
+    {
+      "word": "Tides",
+      "ipa": "/taɪdz/",
+      "meaning": "Thủy triều"
+    },
+    {
+      "word": "Time",
+      "ipa": "/taɪm/",
+      "meaning": "Thời gian"
+    },
+    {
+      "word": "Tin",
+      "ipa": "/tɪn/",
+      "meaning": "Khuôn (làm bánh)"
+    },
+    {
+      "word": "Tiny",
+      "ipa": "/ˈtaɪ.ni/",
+      "meaning": "Rất nhỏ"
+    },
+    {
+      "word": "Tired",
+      "ipa": "/ˈtaɪərd/",
+      "meaning": "Mệt mỏi"
+    },
+    {
+      "word": "To",
+      "ipa": "/tuː/, /tə/",
+      "meaning": "Đến, để"
+    },
+    {
+      "word": "Toast",
+      "ipa": "/toʊst/",
+      "meaning": "Bánh mì nướng"
+    },
+    {
+      "word": "Today",
+      "ipa": "/təˈdeɪ/",
+      "meaning": "Hôm nay"
+    },
+    {
+      "word": "Together",
+      "ipa": "/təˈɡeð.ər/",
+      "meaning": "Cùng nhau"
+    },
+    {
+      "word": "Tomb",
+      "ipa": "/tuːm/",
+      "meaning": "Lăng mộ"
+    },
+    {
+      "word": "Too",
+      "ipa": "/tuː/",
+      "meaning": "Quá, cũng"
+    },
+    {
+      "word": "Top",
+      "ipa": "/tɑːp/",
+      "meaning": "Đỉnh"
+    },
+    {
+      "word": "Tossing",
+      "ipa": "/ˈtɑːs.ɪŋ/",
+      "meaning": "Trằn trọc (trên giường)"
+    },
+    {
+      "word": "Tourist",
+      "ipa": "/ˈtʊr.ɪst/",
+      "meaning": "Khách du lịch"
+    },
+    {
+      "word": "Town",
+      "ipa": "/taʊn/",
+      "meaning": "Thị trấn"
+    },
+    {
+      "word": "Toys",
+      "ipa": "/tɔɪz/",
+      "meaning": "Đồ chơi"
+    },
+    {
+      "word": "Trash",
+      "ipa": "/træʃ/",
+      "meaning": "Rác"
+    },
+    {
+      "word": "Travel",
+      "ipa": "/ˈtræv.əl/",
+      "meaning": "Du lịch"
+    },
+    {
+      "word": "Treasure",
+      "ipa": "/ˈtreʒ.ər/",
+      "meaning": "Kho báu"
+    },
+    {
+      "word": "Tree",
+      "ipa": "/triː/",
+      "meaning": "Cây"
+    },
+    {
+      "word": "Tried",
+      "ipa": "/traɪd/",
+      "meaning": "Đã cố gắng"
+    },
+    {
+      "word": "True",
+      "ipa": "/truː/",
+      "meaning": "Đúng, sự thật"
+    },
+    {
+      "word": "Try",
+      "ipa": "/traɪ/",
+      "meaning": "Cố gắng"
+    },
+    {
+      "word": "Trying",
+      "ipa": "/ˈtraɪ.ɪŋ/",
+      "meaning": "Đang cố gắng"
+    },
+    {
+      "word": "Turn",
+      "ipa": "/tɜːrn/",
+      "meaning": "Chuyển, quay"
+    },
+    {
+      "word": "Turning",
+      "ipa": "/ˈtɜːr.nɪŋ/",
+      "meaning": "Đang quay"
+    },
+    {
+      "word": "TV",
+      "ipa": "/ˌtiːˈviː/",
+      "meaning": "Ti vi"
+    },
+    {
+      "word": "Two",
+      "ipa": "/tuː/",
+      "meaning": "Hai"
+    },
+    {
+      "word": "Ugly",
+      "ipa": "/ˈʌɡ.li/",
+      "meaning": "Xấu xí"
+    },
+    {
+      "word": "Uncouth",
+      "ipa": "/ʌnˈkuːθ/",
+      "meaning": "Thô lỗ"
+    },
+    {
+      "word": "Under",
+      "ipa": "/ˈʌn.dər/",
+      "meaning": "Dưới"
+    },
+    {
+      "word": "Understand",
+      "ipa": "/ˌʌn.dərˈstænd/",
+      "meaning": "Hiểu"
+    },
+    {
+      "word": "Unfortunately",
+      "ipa": "/ʌnˈfɔːr.tʃə.nət.li/",
+      "meaning": "Thật không may"
+    },
+    {
+      "word": "Until",
+      "ipa": "/ənˈtɪl/",
+      "meaning": "Cho đến khi"
+    },
+    {
+      "word": "Up",
+      "ipa": "/ʌp/",
+      "meaning": "Lên"
+    },
+    {
+      "word": "Upon",
+      "ipa": "/əˈpɑːn/",
+      "meaning": "Trên"
+    },
+    {
+      "word": "Us",
+      "ipa": "/ʌs/",
+      "meaning": "Chúng tôi (tân ngữ)"
+    },
+    {
+      "word": "Use",
+      "ipa": "/juːs/",
+      "meaning": "Dùng"
+    },
+    {
+      "word": "Useful",
+      "ipa": "/ˈjuːs.fəl/",
+      "meaning": "Hữu ích"
+    },
+    {
+      "word": "Very",
+      "ipa": "/ˈver.i/",
+      "meaning": "Rất"
+    },
+    {
+      "word": "View",
+      "ipa": "/vjuː/",
+      "meaning": "Khung cảnh"
+    },
+    {
+      "word": "Village",
+      "ipa": "/ˈvɪl.ɪdʒ/",
+      "meaning": "Làng"
+    },
+    {
+      "word": "Voice",
+      "ipa": "/vɔɪs/",
+      "meaning": "Giọng nói"
+    },
+    {
+      "word": "Waiting",
+      "ipa": "/ˈweɪ.tɪŋ/",
+      "meaning": "Đang chờ đợi"
+    },
+    {
+      "word": "Walk",
+      "ipa": "/wɑːk/",
+      "meaning": "Đi bộ"
+    },
+    {
+      "word": "Wall",
+      "ipa": "/wɑːl/",
+      "meaning": "Bức tường"
+    },
+    {
+      "word": "Want",
+      "ipa": "/wɑːnt/",
+      "meaning": "Muốn"
+    },
+    {
+      "word": "Wants",
+      "ipa": "/wɑːnts/",
+      "meaning": "Muốn"
+    },
+    {
+      "word": "Warm",
+      "ipa": "/wɔːrm/",
+      "meaning": "Ấm áp"
+    },
+    {
+      "word": "Warmth",
+      "ipa": "/wɔːrmθ/",
+      "meaning": "Sự ấm áp"
+    },
+    {
+      "word": "Warn",
+      "ipa": "/wɔːrn/",
+      "meaning": "Cảnh báo"
+    },
+    {
+      "word": "Warning",
+      "ipa": "/ˈwɔːr.nɪŋ/",
+      "meaning": "Lời cảnh báo"
+    },
+    {
+      "word": "Was",
+      "ipa": "/wɑːz/, /wəz/",
+      "meaning": "Đã là, đã ở"
+    },
+    {
+      "word": "Wash",
+      "ipa": "/wɑːʃ/",
+      "meaning": "Rửa"
+    },
+    {
+      "word": "Water",
+      "ipa": "/ˈwɑː.tər/",
+      "meaning": "Nước"
+    },
+    {
+      "word": "Wave",
+      "ipa": "/weɪv/",
+      "meaning": "Sóng"
+    },
+    {
+      "word": "Waves",
+      "ipa": "/weɪvz/",
+      "meaning": "Những con sóng"
+    },
+    {
+      "word": "Way",
+      "ipa": "/weɪ/",
+      "meaning": "Cách"
+    },
+    {
+      "word": "We",
+      "ipa": "/wiː/",
+      "meaning": "Chúng tôi"
+    },
+    {
+      "word": "Wealthy",
+      "ipa": "/ˈwel.θi/",
+      "meaning": "Giàu có"
+    },
+    {
+      "word": "Wear",
+      "ipa": "/weər/",
+      "meaning": "Mặc"
+    },
+    {
+      "word": "Weather",
+      "ipa": "/ˈweð.ər/",
+      "meaning": "Thời tiết"
+    },
+    {
+      "word": "Web",
+      "ipa": "/web/",
+      "meaning": "Mạng"
+    },
+    {
+      "word": "Weeks",
+      "ipa": "/wiːks/",
+      "meaning": "Tuần"
+    },
+    {
+      "word": "Weird",
+      "ipa": "/wɪrd/",
+      "meaning": "Kỳ quái"
+    },
+    {
+      "word": "Well",
+      "ipa": "/wel/",
+      "meaning": "Tốt, ừm (thán từ)"
+    },
+    {
+      "word": "Were",
+      "ipa": "/wɜːr/, /wər/",
+      "meaning": "Đã là, đã ở (số nhiều)"
+    },
+    {
+      "word": "Wet",
+      "ipa": "/wet/",
+      "meaning": "Ướt"
+    },
+    {
+      "word": "Whale",
+      "ipa": "/weɪl/",
+      "meaning": "Cá voi"
+    },
+    {
+      "word": "What",
+      "ipa": "/wɑːt/",
+      "meaning": "Cái gì"
+    },
+    {
+      "word": "Whatever",
+      "ipa": "/wɑːtˈev.ər/",
+      "meaning": "Bất cứ điều gì"
+    },
+    {
+      "word": "When",
+      "ipa": "/wen/",
+      "meaning": "Khi"
+    },
+    {
+      "word": "Where",
+      "ipa": "/weər/",
+      "meaning": "Ở đâu"
+    },
+    {
+      "word": "While",
+      "ipa": "/waɪl/",
+      "meaning": "Trong khi"
+    },
+    {
+      "word": "Whisper",
+      "ipa": "/ˈwɪs.pər/",
+      "meaning": "Thầm thì"
+    },
+    {
+      "word": "White",
+      "ipa": "/waɪt/",
+      "meaning": "Màu trắng"
+    },
+    {
+      "word": "Who",
+      "ipa": "/huː/",
+      "meaning": "Ai, người mà"
+    },
+    {
+      "word": "Why",
+      "ipa": "/waɪ/",
+      "meaning": "Tại sao"
+    },
+    {
+      "word": "Wife",
+      "ipa": "/waɪf/",
+      "meaning": "Vợ"
+    },
+    {
+      "word": "Will",
+      "ipa": "/wɪl/",
+      "meaning": "Sẽ"
+    },
+    {
+      "word": "Wind",
+      "ipa": "/wɪnd/",
+      "meaning": "Gió"
+    },
+    {
+      "word": "Window",
+      "ipa": "/ˈwɪn.doʊ/",
+      "meaning": "Cửa sổ"
+    },
+    {
+      "word": "Wings",
+      "ipa": "/wɪŋz/",
+      "meaning": "Đôi cánh"
+    },
+    {
+      "word": "Winter",
+      "ipa": "/ˈwɪn.tər/",
+      "meaning": "Mùa đông"
+    },
+    {
+      "word": "With",
+      "ipa": "/wɪð/",
+      "meaning": "Với"
+    },
+    {
+      "word": "Woe",
+      "ipa": "/woʊ/",
+      "meaning": "Sự buồn khổ"
+    },
+    {
+      "word": "Woman",
+      "ipa": "/ˈwʊm.ən/",
+      "meaning": "Người phụ nữ"
+    },
+    {
+      "word": "Wondered",
+      "ipa": "/ˈwʌn.dərd/",
+      "meaning": "Đã tự hỏi"
+    },
+    {
+      "word": "Wonderful",
+      "ipa": "/ˈwʌn.dər.fəl/",
+      "meaning": "Tuyệt vời"
+    },
+    {
+      "word": "Won't",
+      "ipa": "/woʊnt/",
+      "meaning": "Sẽ không"
+    },
+    {
+      "word": "Wood",
+      "ipa": "/wʊd/",
+      "meaning": "Gỗ (củi)"
+    },
+    {
+      "word": "Word",
+      "ipa": "/wɜːrd/",
+      "meaning": "Lời"
+    },
+    {
+      "word": "Work",
+      "ipa": "/wɜːrk/",
+      "meaning": "Làm việc"
+    },
+    {
+      "word": "Worked",
+      "ipa": "/wɜːrkt/",
+      "meaning": "Đã làm việc"
+    },
+    {
+      "word": "Workers",
+      "ipa": "/ˈwɜːr.kərz/",
+      "meaning": "Công nhân"
+    },
+    {
+      "word": "World",
+      "ipa": "/wɜːrld/",
+      "meaning": "Thế giới"
+    },
+    {
+      "word": "Worms",
+      "ipa": "/wɜːrmz/",
+      "meaning": "Giun"
+    },
+    {
+      "word": "Worried",
+      "ipa": "/ˈwɜːr.id/",
+      "meaning": "Lo lắng"
+    },
+    {
+      "word": "Worry",
+      "ipa": "/ˈwɜːr.i/",
+      "meaning": "Lo lắng"
+    },
+    {
+      "word": "Wow",
+      "ipa": "/waʊ/",
+      "meaning": "Chà (thán từ ngạc nhiên)"
+    },
+    {
+      "word": "Write",
+      "ipa": "/raɪt/",
+      "meaning": "Viết"
+    },
+    {
+      "word": "Writing",
+      "ipa": "/ˈraɪ.t̬ɪŋ/",
+      "meaning": "Đang viết"
+    },
+    {
+      "word": "Wrote",
+      "ipa": "/roʊt/",
+      "meaning": "Đã viết"
+    },
+    {
+      "word": "Ya",
+      "ipa": "/jɑː/",
+      "meaning": "Bạn"
+    },
+    {
+      "word": "Years",
+      "ipa": "/jɪərz/",
+      "meaning": "Năm"
+    },
+    {
+      "word": "Yell",
+      "ipa": "/jel/",
+      "meaning": "Hét, la"
+    },
+    {
+      "word": "Yells",
+      "ipa": "/jelz/",
+      "meaning": "Hét, la"
+    },
+    {
+      "word": "Yellow",
+      "ipa": "/ˈjel.oʊ/",
+      "meaning": "Màu vàng"
+    },
+    {
+      "word": "Yes",
+      "ipa": "/jes/",
+      "meaning": "Vâng, đúng"
+    },
+    {
+      "word": "Yet",
+      "ipa": "/jet/",
+      "meaning": "Tuy nhiên"
+    },
+    {
+      "word": "You",
+      "ipa": "/juː/",
+      "meaning": "Bạn"
+    },
+    {
+      "word": "Your",
+      "ipa": "/jʊr/",
+      "meaning": "Của bạn"
+    },
+    {
+      "word": "ZING",
+      "ipa": "/zɪŋ/",
+      "meaning": "ZING (tiếng ong chích)"
+    },
+    {
+      "word": "Zzzz",
+      "ipa": "/zːz/",
+      "meaning": "Zzzz (tiếng vo ve)"
+    },
+    {
+      "word": "ZZZZZZZZZ",
+      "ipa": "/zːzːzːzːzːzːzːzːz/",
+      "meaning": "ZZZZZZZZZ (tiếng vo ve lớn)"
+    }
+  ]

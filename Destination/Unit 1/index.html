@@ -2,7 +2,6 @@
 <html lang="vi">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Destination\Unit 1</title>
   
 <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
@@ -26,73 +25,67 @@ function filterList() {
 
 function setView(mode) {
   currentView = mode;
-  document.getElementById("file-container").classList.toggle("hidden", mode !== "grid");
-  document.getElementById("list-container").classList.toggle("hidden", mode !== "list");
-  document.getElementById("list-nav").classList.toggle("hidden", mode !== "list");
+  const gridContainer = document.getElementById("file-container");
+  const listContainer = document.getElementById("list-container");
+  const nav = document.getElementById("list-nav");
+
   if (mode === "grid") {
+    gridContainer.style.display = "grid";
+    listContainer.style.display = "none";
+    nav.style.display = "none";
     renderGridItems();
   } else {
+    gridContainer.style.display = "none";
+    listContainer.style.display = "grid";
+    nav.style.display = "flex";
     renderListSlides();
   }
 }
 
-function naturalSortKey(str) {
-  return str.toLowerCase().match(/\d+|\D+/g).map(s => isNaN(s) ? s : parseInt(s));
-}
-
 function sortItems(order) {
-  const backItem = listItems.find(item => item.name === "Back");
-  const others = listItems.filter(item => item.name !== "Back");
-
-  others.sort((a, b) => {
-    const keyA = naturalSortKey(a.name);
-    const keyB = naturalSortKey(b.name);
-    for (let i = 0; i < Math.max(keyA.length, keyB.length); i++) {
-      if (keyA[i] === undefined) return order === "asc" ? -1 : 1;
-      if (keyB[i] === undefined) return order === "asc" ? 1 : -1;
-      if (keyA[i] !== keyB[i]) return order === "asc" ? (keyA[i] > keyB[i] ? 1 : -1) : (keyA[i] < keyB[i] ? 1 : -1);
-    }
-    return 0;
+  listItems.sort((a, b) => {
+    const nameA = a.name.toLowerCase();
+    const nameB = b.name.toLowerCase();
+    return order === "asc" ? nameA.localeCompare(nameB) : nameB.localeCompare(nameA);
   });
 
-  listItems = backItem ? [backItem, ...others] : others;
   gridItems = [...listItems];
-  currentView === "list" ? renderListSlides() : renderGridItems();
+
+  if (currentView === "list") {
+    renderListSlides();
+  } else {
+    renderGridItems();
+  }
 }
 
 function renderListSlides() {
   const listContainer = document.getElementById("list-container");
   listContainer.innerHTML = "";
   const slides = Math.ceil(listItems.length / itemsPerSlide);
+
   const start = currentSlide * itemsPerSlide;
   const end = start + itemsPerSlide;
   const currentItems = listItems.slice(start, end);
+
   const columns = 2;
-  const rows = 10;
+  const rows = Math.ceil(currentItems.length / columns);
+  let cols = [];
 
-  const table = document.createElement("div");
-  table.className = "grid grid-cols-1 sm:grid-cols-2 gap-6";
-
-  for (let col = 0; col < columns; col++) {
-    const colDiv = document.createElement("div");
-    colDiv.className = "space-y-2";
-
-    for (let row = 0; row < rows; row++) {
-      const index = col * rows + row;
-      if (index >= currentItems.length) break;
-      const item = currentItems[index];
-
-      const a = document.createElement("a");
-      a.href = item.link;
-      a.className = "flex items-center text-blue-600 hover:underline truncate";
-      a.innerHTML = `<span class='text-lg mr-2'>${item.icon}</span><span class='truncate'>${item.name}</span>`;
-      colDiv.appendChild(a);
-    }
-
-    table.appendChild(colDiv);
+  for (let i = 0; i < columns; i++) {
+    const col = document.createElement("div");
+    col.className = "space-y-1";
+    cols.push(col);
   }
 
-  listContainer.appendChild(table);
+  currentItems.forEach((item, index) => {
+    const a = document.createElement("a");
+    a.href = item.link;
+    a.className = "flex items-center text-blue-600 hover:underline";
+    a.innerHTML = `<span class="text-lg mr-2">${item.icon}</span><span class="truncate">${item.name}</span>`;
+    cols[index % columns].appendChild(a);
+  });
+
+  cols.forEach(col => listContainer.appendChild(col));
 
   document.getElementById("slide-indicator").innerText = `${currentSlide + 1} / ${slides}`;
   document.getElementById("prev-slide").disabled = currentSlide === 0;
@@ -102,47 +95,65 @@ function renderListSlides() {
 function renderGridItems() {
   const gridContainer = document.getElementById("file-container");
   gridContainer.innerHTML = "";
+
   gridItems.forEach(item => {
     const div = document.createElement("div");
     div.className = "file-item";
     div.setAttribute("data-name", item.name);
+
     div.innerHTML = `
       <a href="${item.link}" class="block p-4 bg-white border rounded shadow hover:shadow-md text-center">
         <div class="text-2xl">${item.icon}</div>
         <div class="mt-2 text-sm truncate">${item.name}</div>
       </a>`;
+    
     gridContainer.appendChild(div);
   });
 }
 
-function nextSlide() { currentSlide++; renderListSlides(); }
-function prevSlide() { currentSlide--; renderListSlides(); }
+function nextSlide() {
+  currentSlide++;
+  renderListSlides();
+}
+
+function prevSlide() {
+  currentSlide--;
+  renderListSlides();
+}
+
 function initList(data) {
   listItems = data;
   gridItems = [...data];
-  sortItems("asc");
+  sortItems("asc"); // mặc định A-Z
 }
 </script>
 
 </head>
-<body class="bg-gray-50 text-gray-900 p-4 sm:p-6">
-  <div class="max-w-7xl mx-auto">
-    <div class="flex flex-wrap justify-between items-center gap-4 mb-4">
-      <h1 class="text-xl sm:text-2xl font-bold">Destination\Unit 1</h1>
-      <div class="flex flex-wrap gap-2">
-        <button onclick="setView('grid')" class="px-3 py-1 border rounded bg-white hover:bg-gray-100">🧱 Grid</button>
-        <button onclick="setView('list')" class="px-3 py-1 border rounded bg-white hover:bg-gray-100">📋 List</button>
-        <button onclick="sortItems('asc')" class="px-3 py-1 border rounded bg-white hover:bg-gray-100">🔼 A-Z</button>
-        <button onclick="sortItems('desc')" class="px-3 py-1 border rounded bg-white hover:bg-gray-100">🔽 Z-A</button>
+<body class="bg-gray-50 text-gray-900 p-6">
+  <div class="max-w-5xl mx-auto">
+    <div class="flex flex-wrap justify-between items-center mb-4 gap-2">
+      <h1 class="text-2xl font-bold">Destination\Unit 1</h1>
+      <div class="space-x-2">
+        <button onclick="setView('grid')" class="px-2 py-1 border rounded bg-white hover:bg-gray-100">🧱 Grid</button>
+        <button onclick="setView('list')" class="px-2 py-1 border rounded bg-white hover:bg-gray-100">📋 List</button>
+        <button onclick="sortItems('asc')" class="px-2 py-1 border rounded bg-white hover:bg-gray-100">🔼 A-Z</button>
+        <button onclick="sortItems('desc')" class="px-2 py-1 border rounded bg-white hover:bg-gray-100">🔽 Z-A</button>
       </div>
     </div>
 
     <input id="search" type="text" onkeyup="filterList()" placeholder="🔍 Tìm kiếm..."
-           class="w-full p-2 border border-gray-300 rounded mb-6" />
+           class="w-full mb-6 p-2 border border-gray-300 rounded" />
 
-    <div id="file-container" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4"></div>
-    <div id="list-container" class="hidden mb-4"></div>
-    <div id="list-nav" class="hidden flex justify-between items-center mt-4">
+    <!-- Grid view -->
+    <div id="file-container" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4">
+    </div>
+
+
+    <!-- List View -->
+    <div id="list-container" class="hidden grid-cols-2 gap-8 mb-4"></div>
+
+    <!-- Navigation -->
+    <div id="list-nav" class="hidden items-center justify-between mt-4">
       <button id="prev-slide" onclick="prevSlide()" class="px-3 py-1 border rounded bg-white hover:bg-gray-100">⬅️ Previous</button>
       <span id="slide-indicator" class="text-sm text-gray-600">1 / 1</span>
       <button id="next-slide" onclick="nextSlide()" class="px-3 py-1 border rounded bg-white hover:bg-gray-100">Next ➡️</button>

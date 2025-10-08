@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bài Tập Tiếng Đức</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .exercise-card {
+            background-color: #fff;
+            border-radius: 12px;
+            padding: 24px;
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+            margin-bottom: 32px;
+            border: 1px solid #e5e7eb;
+        }
+        .exercise-title {
+            font-size: 1.75rem;
+            font-weight: bold;
+            color: #1f2937;
+            margin-bottom: 16px;
+            border-bottom: 2px solid #3b82f6;
+            padding-bottom: 8px;
+        }
+        .sentence-row {
+            display: flex;
+            align-items: center;
+            margin-bottom: 12px;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+        .sentence-row span {
+            font-weight: 500;
+            color: #4b5563;
+        }
+        input[type="text"] {
+            border: 1px solid #d1d5db;
+            border-radius: 6px;
+            padding: 6px 10px;
+            width: 150px;
+            transition: border-color 0.2s ease-in-out;
+        }
+        input[type="text"]:focus {
+            outline: none;
+            border-color: #3b82f6;
+        }
+        .punctuation-input {
+            width: 40px;
+            text-align: center;
+        }
+        .correct-answer {
+            border-color: #16a34a !important;
+            background-color: #f0fdf4;
+        }
+        .wrong-answer {
+            border-color: #dc2626 !important;
+            background-color: #fef2f2;
+        }
+        .correct-answer:focus {
+             box-shadow: 0 0 0 2px #dcfce7;
+        }
+        .wrong-answer:focus {
+             box-shadow: 0 0 0 2px #fee2e2;
+        }
+        .button-group {
+            display: flex;
+            gap: 12px;
+            justify-content: flex-end;
+            margin-top: 24px;
+        }
+        .action-button {
+            padding: 10px 20px;
+            border-radius: 8px;
+            font-weight: bold;
+            transition: background-color 0.2s ease-in-out, transform 0.1s ease-in-out;
+        }
+        .action-button:hover {
+            transform: translateY(-2px);
+        }
+        .action-button:active {
+            transform: translateY(0);
+        }
+        .check-button {
+            background-color: #3b82f6;
+            color: white;
+        }
+        .check-button:hover {
+            background-color: #2563eb;
+        }
+        .reset-button {
+            background-color: #9ca3af;
+            color: white;
+        }
+        .reset-button:hover {
+            background-color: #6b7280;
+        }
+        .word-list {
+            background-color: #e0f2fe;
+            border-left: 4px solid #3b82f6;
+            padding: 12px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            font-style: italic;
+            color: #1e40af;
+        }
+        .word-list span {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body class="bg-gray-100 p-8 font-sans">
+
+    <div class="container mx-auto max-w-4xl">
+        <!-- Hướng dẫn sử dụng -->
+        <div class="exercise-card">
+            <h2 class="exercise-title">Hướng dẫn sử dụng</h2>
+            <p class="text-gray-700 mb-4">Chào bạn! Bạn có thể làm các bài tập tiếng Đức này trực tiếp trên trang web. Vui lòng làm theo các bước dưới đây:</p>
+            <ol class="list-decimal list-inside text-gray-700 space-y-2">
+                <li>Điền câu trả lời của bạn vào các ô trống.</li>
+                <li>Khi bạn hoàn thành một bài, nhấn nút **"Kiểm tra"** để xem kết quả. Các ô đúng sẽ có viền màu xanh lá cây và ô sai có viền màu đỏ.</li>
+                <li>Nếu bạn muốn làm lại, hãy nhấn nút **"Đặt lại"** để xóa tất cả các câu trả lời và bắt đầu lại.</li>
+            </ol>
+        </div>
+
+        <!-- Exercise 9 -->
+        <div class="exercise-card">
+            <h2 class="exercise-title">9. Ordnen Sie zu und ergänzen Sie die Satzzeichen: ? oder .</h2>
+            <div class="word-list">
+                <span>Các từ gợi ý:</span> wie, wer, Das, ist, bin, ist, ist, heiße, heiße, heißen, Herr
+            </div>
+            
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                <div>
+                    <!-- 9a -->
+                    <div class="sentence-row">
+                        <span>a) Ich</span> <input type="text" data-answer="bin" class="answer-input"> <span>Andreas Zilinski</span><input type="text" data-answer="." class="punctuation-input">
+                    </div>
+                    <!-- 9a_2 -->
+                    <div class="sentence-row">
+                        <span>Entschuldigung,</span> <input type="text" data-answer="heißen" class="answer-input"> <span>Sie</span><input type="text" data-answer="?" class="punctuation-input">
+                    </div>
+                    <!-- 9a_3 -->
+                    <div class="sentence-row">
+                        <span>Andreas Zilinski, und das</span> <input type="text" data-answer="ist" class="answer-input"> <span>Frau Kunz</span><input type="text" data-answer="?" class="punctuation-input">
+                    </div>
+                    <!-- 9b -->
+                    <div class="sentence-row">
+                        <span>b) Wer</span> <input type="text" data-answer="ist" class="answer-input"> <span>das</span><input type="text" data-answer="?" class="punctuation-input">
+                    </div>
+                    <!-- 9b_2 -->
+                    <div class="sentence-row">
+                        <input type="text" data-answer="Das" class="answer-input"> <span>ist Felix</span><input type="text" data-answer="." class="punctuation-input">
+                    </div>
+                </div>
+                <div>
+                    <!-- 9c -->
+                    <div class="sentence-row">
+                        <span>c) Ich</span> <input type="text" data-answer="heiße" class="answer-input"> <span>Laura Weber</span><input type="text" data-answer="." class="punctuation-input">
+                    </div>
+                    <!-- 9c_2 -->
+                    <div class="sentence-row">
+                        <span>Und wie</span> <input type="text" data-answer="heißen" class="answer-input"> <span>Sie</span><input type="text" data-answer="?" class="punctuation-input">
+                    </div>
+                    <!-- 9c_3 -->
+                    <div class="sentence-row">
+                        <span>Ich</span> <input type="text" data-answer="heiße" class="answer-input"> <span>Michaela Schubert</span><input type="text" data-answer="." class="punctuation-input">
+                    </div>
+                    <!-- 9d -->
+                    <div class="sentence-row">
+                        <span>d) Das</span> <input type="text" data-answer="ist" class="answer-input"> <span>Hoffmann</span><input type="text" data-answer="." class="punctuation-input">
+                    </div>
+                    <!-- 9d_2 -->
+                    <div class="sentence-row">
+                        <span>Und wer</span> <input type="text" data-answer="ist" class="answer-input"> <span>das</span><input type="text" data-answer="?" class="punctuation-input">
+                    </div>
+                    <!-- 9d_3 -->
+                    <div class="sentence-row">
+                        <span>Das ist</span> <input type="text" data-answer="Herr" class="answer-input"> <span>Frau Kunz</span><input type="text" data-answer="." class="punctuation-input">
+                    </div>
+                </div>
+            </div>
+            
+            <div class="button-group">
+                <button onclick="checkAnswers(9)" class="action-button check-button">Kiểm tra</button>
+                <button onclick="resetAnswers(9)" class="action-button reset-button">Đặt lại</button>
+            </div>
+        </div>
+
+        <!-- Exercise 10 -->
+        <div class="exercise-card">
+            <h2 class="exercise-title">10. Schreiben Sie Sätze und ergänzen Sie die Satzzeichen: ? oder .</h2>
+            <div class="text-gray-700 space-y-2 mb-4">
+                <p>Sắp xếp các từ sau để tạo thành câu hoàn chỉnh, sau đó điền vào ô trống.</p>
+                <ul class="list-disc list-inside">
+                    <li>a) Sie / heißen / wie / ?</li>
+                    <li>b) Annika Bauer / mein / Name / ist / .</li>
+                    <li>c) Air-Jet / Herzlich / willkommen / bei / .</li>
+                    <li>d) Und / wer / das / ist / ?</li>
+                    <li>e) Frau Kaufmann / ist / das / .</li>
+                </ul>
+            </div>
+            <div class="flex flex-col gap-4">
+                <div class="sentence-row">
+                    <span>a)</span>
+                    <input type="text" class="full-sentence-input" data-answer="Wie heißen Sie?">
+                </div>
+                <div class="sentence-row">
+                    <span>b)</span>
+                    <input type="text" class="full-sentence-input" data-answer="Mein Name ist Annika Bauer.">
+                </div>
+                <div class="sentence-row">
+                    <span>c)</span>
+                    <input type="text" class="full-sentence-input" data-answer="Herzlich willkommen bei Air-Jet.">
+                </div>
+                <div class="sentence-row">
+                    <span>d)</span>
+                    <input type="text" class="full-sentence-input" data-answer="Und wer ist das?">
+                </div>
+                <div class="sentence-row">
+                    <span>e)</span>
+                    <input type="text" class="full-sentence-input" data-answer="Das ist Frau Kaufmann.">
+                </div>
+            </div>
+            <div class="button-group">
+                <button onclick="checkAnswers(10)" class="action-button check-button">Kiểm tra</button>
+                <button onclick="resetAnswers(10)" class="action-button reset-button">Đặt lại</button>
+            </div>
+        </div>
+
+        <!-- Exercise 11 -->
+        <div class="exercise-card">
+            <h2 class="exercise-title">11. Ergänzen Sie.</h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                <div>
+                    <!-- 11a -->
+                    <div class="sentence-row">
+                        <span>a) Hallo, ich</span> <input type="text" data-answer="bin" class="answer-input-11"> <span>Tim.</span>
+                    </div>
+                    <!-- 11a_2 -->
+                    <div class="sentence-row">
+                        <span>Hallo, Tim. Ich</span> <input type="text" data-answer="heiße" class="answer-input-11"> <span>Len.</span>
+                    </div>
+                    <!-- 11a_3 -->
+                    <div class="sentence-row">
+                        <span>Und</span> <input type="text" data-answer="wer" class="answer-input-11"> <span>ist das?</span>
+                    </div>
+                    <!-- 11a_4 -->
+                    <div class="sentence-row">
+                        <input type="text" data-answer="Das" class="answer-input-11"> <span>ist Jannis.</span>
+                    </div>
+                    <!-- 11b -->
+                    <div class="sentence-row">
+                        <span>b) Guten Tag,</span> <input type="text" data-answer="ich" class="answer-input-11"> <span>bin Mohammad Haaleh.</span>
+                    </div>
+                    <!-- 11b_2 -->
+                    <div class="sentence-row">
+                        <span>Entschuldigung,</span> <input type="text" data-answer="wie" class="answer-input-11"> <span>heißen Sie?</span>
+                    </div>
+                    <!-- 11b_3 -->
+                    <div class="sentence-row">
+                        <span>Herr</span> <input type="text" data-answer="Haaleh" class="answer-input-11"><span>.</span>
+                    </div>
+                    <!-- 11b_4 -->
+                    <div class="sentence-row">
+                        <span>Ah, ja. Guten Tag,</span> <input type="text" data-answer="Herr" class="answer-input-11"> <span>Haaleh.</span>
+                    </div>
+                </div>
+                <div>
+                    <!-- 11c -->
+                    <div class="sentence-row">
+                        <span>c) Das</span> <input type="text" data-answer="ist" class="answer-input-11"> <span>Frau Santos.</span>
+                    </div>
+                    <!-- 11c_2 -->
+                    <div class="sentence-row">
+                        <span>Guten Morgen, Frau Santos.</span>
+                    </div>
+                    <!-- 11c_3 -->
+                    <div class="sentence-row">
+                        <span>Ich</span> <input type="text" data-answer="bin" class="answer-input-11"> <span>Kolja Steffens.</span>
+                    </div>
+                    <!-- 11c_4 -->
+                    <div class="sentence-row">
+                        <span>Guten</span> <input type="text" data-answer="Tag" class="answer-input-11"><span>, Herr Steffens,</span>
+                    </div>
+                    <!-- 11c_5 -->
+                    <div class="sentence-row">
+                        <span>Herzlich</span> <input type="text" data-answer="willkommen" class="answer-input-11"> <span>bei Sona.</span>
+                    </div>
+                    <!-- 11d -->
+                    <div class="sentence-row">
+                        <span>d) Wer</span> <input type="text" data-answer="ist" class="answer-input-11"> <span>Dario Cologna?</span>
+                    </div>
+                    <!-- 11d_2 -->
+                    <div class="sentence-row">
+                        <input type="text" data-answer="Das" class="answer-input-11"> <span>ist er nicht.</span>
+                    </div>
+                </div>
+            </div>
+            <div class="button-group">
+                <button onclick="checkAnswers(11)" class="action-button check-button">Kiểm tra</button>
+                <button onclick="resetAnswers(11)" class="action-button reset-button">Đặt lại</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Hàm kiểm tra và đặt lại câu trả lời cho các bài tập
+        function checkAnswers(exerciseNumber) {
+            let inputs;
+            if (exerciseNumber === 9 || exerciseNumber === 11) {
+                inputs = document.querySelectorAll(`.answer-input, .punctuation-input, .answer-input-11`);
+            } else if (exerciseNumber === 10) {
+                inputs = document.querySelectorAll(`.full-sentence-input`);
+            }
+            
+            inputs.forEach(input => {
+                let userAnswer = input.value.trim().toLowerCase();
+                let correctAnswer = input.getAttribute('data-answer').toLowerCase();
+
+                // Xử lý đặc biệt cho bài 10
+                if (exerciseNumber === 10) {
+                    // Loại bỏ dấu câu khỏi câu trả lời đúng để so sánh chỉ phần nội dung
+                    correctAnswer = correctAnswer.replace(/[?!.]/g, '').trim();
+                }
+                
+                if (userAnswer === correctAnswer) {
+                    input.classList.remove('wrong-answer');
+                    input.classList.add('correct-answer');
+                } else {
+                    input.classList.remove('correct-answer');
+                    input.classList.add('wrong-answer');
+                }
+            });
+        }
+        
+        function resetAnswers(exerciseNumber) {
+            let inputs;
+            if (exerciseNumber === 9 || exerciseNumber === 11) {
+                inputs = document.querySelectorAll(`.answer-input, .punctuation-input, .answer-input-11`);
+            } else if (exerciseNumber === 10) {
+                inputs = document.querySelectorAll(`.full-sentence-input`);
+            }
+            
+            inputs.forEach(input => {
+                input.value = '';
+                input.classList.remove('correct-answer', 'wrong-answer');
+            });
+        }
+    </script>
+</body>
+</html>
